@@ -21,9 +21,17 @@
 		D08A9B5B2785B86500B75A0A /* TopInterviewQuestions */ = {
 			isa = PBXGroup;
 			children = (
-				D08A9B5C2785B98E00B75A0A /* 1.TwoSum.playground */,
+				D08A9B5D2785DC6500B75A0A /* Easy */,
 			);
 			path = TopInterviewQuestions;
+			sourceTree = "<group>";
+		};
+		D08A9B5D2785DC6500B75A0A /* Easy */ = {
+			isa = PBXGroup;
+			children = (
+				D08A9B5C2785B98E00B75A0A /* 1.TwoSum.playground */,
+			);
+			path = Easy;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
