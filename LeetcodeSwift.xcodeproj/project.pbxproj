@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		D039BB06278C5C24009142ED /* 2.Remove Duplicates from Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2.Remove Duplicates from Sorted Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D08A9B5C2785B98E00B75A0A /* 1.TwoSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1.TwoSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
@@ -30,6 +31,7 @@
 			isa = PBXGroup;
 			children = (
 				D08A9B5C2785B98E00B75A0A /* 1.TwoSum.playground */,
+				D039BB06278C5C24009142ED /* 2.Remove Duplicates from Sorted Array.playground */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
