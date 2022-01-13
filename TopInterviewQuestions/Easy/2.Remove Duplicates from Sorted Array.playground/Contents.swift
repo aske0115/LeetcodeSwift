@@ -66,6 +66,6 @@ class Solution {
 
 
 let sol = Solution()
-var items = [1,1,2]
+var items = [0,0,1,1,1,2,2,3,3,4]
 sol.removeDuplicates(&items)
 print(items)
