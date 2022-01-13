@@ -11,6 +11,7 @@
 		D08A9B5C2785B98E00B75A0A /* 1.TwoSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1.TwoSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D0E7285A27903F1000DC1133 /* 3. Best Time to But and Sell Stock II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3. Best Time to But and Sell Stock II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D0E7285B27904B6100DC1133 /* 4. Contains Duplicate.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "4. Contains Duplicate.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D0E7285C27906C5900DC1133 /* 5. Plus One.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "5. Plus One.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -36,6 +37,7 @@
 				D039BB06278C5C24009142ED /* 2.Remove Duplicates from Sorted Array.playground */,
 				D0E7285A27903F1000DC1133 /* 3. Best Time to But and Sell Stock II.playground */,
 				D0E7285B27904B6100DC1133 /* 4. Contains Duplicate.playground */,
+				D0E7285C27906C5900DC1133 /* 5. Plus One.playground */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
