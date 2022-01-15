@@ -35,14 +35,8 @@
 
 
 class Solution {
-    
-//    func
     func maxProfit(_ prices: [Int]) -> Int {
-        //1. 0번부터 n번까지 돌면서 산날 이후로 비싸진 적이 없다면 0을 리턴하라 (쏘팅 후 reverse)
-        //2. sorting이 되어있다면 첫날사서 마지막날 파는게 답.. (쏘팅 후 원본과 비교)
-        //3. 그게 아니면.. 모든 경우의 수를 비교해봐야하는데.. 일단 1번
-        //시간없다.. 이건 내일 첨부터 다시 생각해봐야지 ㅠㅠ
-        
+        //3일 고민해보고 몰겠으면 답보고 공부해야지..ㅜ_ㅠ
         var hashmap : [Int:Int] = [:]
         for (i,v) in prices.enumerated() {
             hashmap[v] = i

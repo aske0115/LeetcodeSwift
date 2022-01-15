@@ -46,7 +46,7 @@ class Solution {
             result.insert(value % 10, at: 0)
         }
 //
-        if let first = result.first, first == 0 , upper {
+        if let first = result.first, first == 0 {
             result.insert(1, at: 0)
         }
         
