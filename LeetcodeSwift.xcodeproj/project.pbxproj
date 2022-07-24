@@ -12,12 +12,14 @@
 		D0E7285A27903F1000DC1133 /* 3. Best Time to But and Sell Stock II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3. Best Time to But and Sell Stock II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D0E7285B27904B6100DC1133 /* 4. Contains Duplicate.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "4. Contains Duplicate.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D0E7285C27906C5900DC1133 /* 5. Plus One.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "5. Plus One.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FCAE6F87288D1F9D0032CB1F /* RomanInteger.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RomanInteger.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		D08A9B542785B85D00B75A0A = {
 			isa = PBXGroup;
 			children = (
+				FCAE6F86288D1F8D0032CB1F /* Exam */,
 				D08A9B5B2785B86500B75A0A /* TopInterviewQuestions */,
 			);
 			sourceTree = "<group>";
@@ -40,6 +42,14 @@
 				D0E7285C27906C5900DC1133 /* 5. Plus One.playground */,
 			);
 			path = Easy;
+			sourceTree = "<group>";
+		};
+		FCAE6F86288D1F8D0032CB1F /* Exam */ = {
+			isa = PBXGroup;
+			children = (
+				FCAE6F87288D1F9D0032CB1F /* RomanInteger.playground */,
+			);
+			path = Exam;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
