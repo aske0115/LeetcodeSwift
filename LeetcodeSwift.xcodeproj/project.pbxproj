@@ -14,6 +14,8 @@
 		D0E7285C27906C5900DC1133 /* 5. Plus One.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "5. Plus One.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC7AB85828A3D547008EB9AF /* ValidAnagram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ValidAnagram.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC7AB85928A3D6DF008EB9AF /* GroupAnagrams.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = GroupAnagrams.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC7AB85B28A3DFD4008EB9AF /* 108.Convert Sorted Array to Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "108.Convert Sorted Array to Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC7AB85D28A3E879008EB9AF /* ValidPalindrome.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ValidPalindrome.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCAE6F87288D1F9D0032CB1F /* RomanInteger.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RomanInteger.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
@@ -21,6 +23,7 @@
 		D08A9B542785B85D00B75A0A = {
 			isa = PBXGroup;
 			children = (
+				FC7AB85A28A3DFBB008EB9AF /* OneDayChallenage */,
 				FC7AB85628A3D518008EB9AF /* neetcode_blind75 */,
 				FCAE6F86288D1F8D0032CB1F /* Exam */,
 				D08A9B5B2785B86500B75A0A /* TopInterviewQuestions */,
@@ -50,6 +53,7 @@
 		FC7AB85628A3D518008EB9AF /* neetcode_blind75 */ = {
 			isa = PBXGroup;
 			children = (
+				FC7AB85C28A3E861008EB9AF /* Two Pointers */,
 				FC7AB85728A3D524008EB9AF /* Array&hashmap */,
 			);
 			path = neetcode_blind75;
@@ -62,6 +66,22 @@
 				FC7AB85928A3D6DF008EB9AF /* GroupAnagrams.playground */,
 			);
 			path = "Array&hashmap";
+			sourceTree = "<group>";
+		};
+		FC7AB85A28A3DFBB008EB9AF /* OneDayChallenage */ = {
+			isa = PBXGroup;
+			children = (
+				FC7AB85B28A3DFD4008EB9AF /* 108.Convert Sorted Array to Binary Search Tree.playground */,
+			);
+			path = OneDayChallenage;
+			sourceTree = "<group>";
+		};
+		FC7AB85C28A3E861008EB9AF /* Two Pointers */ = {
+			isa = PBXGroup;
+			children = (
+				FC7AB85D28A3E879008EB9AF /* ValidPalindrome.playground */,
+			);
+			path = "Two Pointers";
 			sourceTree = "<group>";
 		};
 		FCAE6F86288D1F8D0032CB1F /* Exam */ = {
