@@ -1,11 +1,9 @@
 class Solution {
     func topKFrequent(_ nums: [Int], _ k: Int) -> [Int] {
         
-        var sortedArrayy = nums
-        var resultArray: [Int] = []
         var hashMap: [Int: Int] = [:]
         
-        for i in sortedArrayy {
+        for i in nums {
             if let value = hashMap[i] {
                 hashMap[i] = value + 1
             } else {
@@ -13,14 +11,9 @@ class Solution {
             }
         }
         
-        let tt = hashMap.sorted { lhs, rhs in
+        return hashMap.sorted { lhs, rhs in
             lhs.value > rhs.value
-        }
-        
-        for i in tt[0..<k] {
-            resultArray.append(i.key)
-        }
-        return resultArray
+        }.prefix(k).map { $0.key }
     }
 }
 
