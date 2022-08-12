@@ -1,15 +1,16 @@
 class Solution {
     func topKFrequent(_ nums: [Int], _ k: Int) -> [Int] {
         
-        var sortedArrayy = nums.sorted()
+        var sortedArrayy = nums
         var resultArray: [Int] = []
         var hashMap: [Int: Int] = [:]
         
-        while sortedArrayy.count > 0 {
-            let first = sortedArrayy.first!
-            let count = sortedArrayy.count
-            sortedArrayy.removeAll { $0 == first}
-            hashMap[first] = count - sortedArrayy.count
+        for i in sortedArrayy {
+            if let value = hashMap[i] {
+                hashMap[i] = value + 1
+            } else {
+                hashMap[i] = 1
+            }
         }
         
         let tt = hashMap.sorted { lhs, rhs in
@@ -24,4 +25,4 @@ class Solution {
 }
 
 let sol = Solution()
-print(sol.topKFrequent([-1,-1], 1))
+print(sol.topKFrequent([-1,-1,2,4,1,3,2,4,5,7,8,8,8,8,8,7,6,3,2,4,5,6,6,4,4,3,1,1,1,1,1,1], 8))
