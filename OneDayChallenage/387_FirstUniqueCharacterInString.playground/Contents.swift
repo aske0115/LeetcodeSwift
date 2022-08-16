@@ -38,6 +38,14 @@ class Solution {
         
         let dic = Dictionary(s.map { ($0, 1)}, uniquingKeysWith: +).filter { $0.value == 1}.keys
         
+        //함수형?
+//        if let obj = s.enumerated().filter { dic.contains($0.element)}.first?.element, let index = s.firstIndex(of: obj)?.utf16Offset(in: s) {
+//            return index
+//
+//        }
+       
+        
+        //이게 더 나은것같기도하고.. (찾으면 그만도니깐..)
         for (i,v)  in s.enumerated() {
             if dic.contains(v) {
                 return i
