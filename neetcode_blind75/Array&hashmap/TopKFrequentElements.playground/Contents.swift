@@ -10,7 +10,8 @@ class Solution {
                 hashMap[i] = 1
             }
         }
-        
+        let s = Dictionary(nums.map { ($0, 1)}, uniquingKeysWith: + )
+        print(s)
         return hashMap.sorted { lhs, rhs in
             lhs.value > rhs.value
         }.prefix(k).map { $0.key }
