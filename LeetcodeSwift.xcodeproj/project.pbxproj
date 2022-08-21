@@ -12,6 +12,7 @@
 		D0E7285A27903F1000DC1133 /* 3. Best Time to But and Sell Stock II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3. Best Time to But and Sell Stock II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D0E7285B27904B6100DC1133 /* 4. Contains Duplicate.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "4. Contains Duplicate.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D0E7285C27906C5900DC1133 /* 5. Plus One.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "5. Plus One.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC5152C228B2053E00951CBF /* 2_Add Two Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2_Add Two Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC55FE1628A62C98006FECED /* TopKFrequentElements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TopKFrequentElements.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC7AB85828A3D547008EB9AF /* ValidAnagram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ValidAnagram.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC7AB85928A3D6DF008EB9AF /* GroupAnagrams.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = GroupAnagrams.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -38,6 +39,7 @@
 		D08A9B5B2785B86500B75A0A /* TopInterviewQuestions */ = {
 			isa = PBXGroup;
 			children = (
+				FC5152C128B2052600951CBF /* Medium */,
 				D08A9B5D2785DC6500B75A0A /* Easy */,
 			);
 			path = TopInterviewQuestions;
@@ -53,6 +55,14 @@
 				D0E7285C27906C5900DC1133 /* 5. Plus One.playground */,
 			);
 			path = Easy;
+			sourceTree = "<group>";
+		};
+		FC5152C128B2052600951CBF /* Medium */ = {
+			isa = PBXGroup;
+			children = (
+				FC5152C228B2053E00951CBF /* 2_Add Two Numbers.playground */,
+			);
+			path = Medium;
 			sourceTree = "<group>";
 		};
 		FC7AB85628A3D518008EB9AF /* neetcode_blind75 */ = {
