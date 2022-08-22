@@ -12,6 +12,7 @@
 		D0E7285A27903F1000DC1133 /* 3. Best Time to But and Sell Stock II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3. Best Time to But and Sell Stock II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D0E7285B27904B6100DC1133 /* 4. Contains Duplicate.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "4. Contains Duplicate.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D0E7285C27906C5900DC1133 /* 5. Plus One.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "5. Plus One.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC280D7528B366FC007FD6F1 /* 342_PowerOfFour.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 342_PowerOfFour.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC5152C228B2053E00951CBF /* 2_Add Two Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2_Add Two Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC55FE1628A62C98006FECED /* TopKFrequentElements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TopKFrequentElements.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC7AB85828A3D547008EB9AF /* ValidAnagram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ValidAnagram.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -92,6 +93,7 @@
 				FCA337DD28ABBF4F00AAA9F0 /* AssociateProblems */,
 				FC7AB85B28A3DFD4008EB9AF /* 108.Convert Sorted Array to Binary Search Tree.playground */,
 				FCC1628B28AB9D7900773A2C /* 387_FirstUniqueCharacterInString.playground */,
+				FC280D7528B366FC007FD6F1 /* 342_PowerOfFour.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
