@@ -24,6 +24,7 @@
 		FCAE6F87288D1F9D0032CB1F /* RomanInteger.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RomanInteger.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCBE74A028AC9B0900107F82 /* 804_Unique_Morse_Code_Words.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 804_Unique_Morse_Code_Words.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCC1628B28AB9D7900773A2C /* 387_FirstUniqueCharacterInString.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 387_FirstUniqueCharacterInString.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FCE2BE9428B5AC550030FCDA /* 326_PowerOfThree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 326_PowerOfThree.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCE698BD28AE5CAC003379E8 /* 1338_Reduce_Array_Size_to_The_Half.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1338_Reduce_Array_Size_to_The_Half.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
@@ -96,6 +97,7 @@
 				FCC1628B28AB9D7900773A2C /* 387_FirstUniqueCharacterInString.playground */,
 				FC280D7528B366FC007FD6F1 /* 342_PowerOfFour.playground */,
 				FC31A0E328B4BB230076514C /* 234_Palindrome_Linked_List.playground */,
+				FCE2BE9428B5AC550030FCDA /* 326_PowerOfThree.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
