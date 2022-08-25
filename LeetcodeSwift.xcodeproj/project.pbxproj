@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		D039BB06278C5C24009142ED /* 2.Remove Duplicates from Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2.Remove Duplicates from Sorted Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D03D19BE28B755E600BFDEE2 /* 383_ransomNote.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 383_ransomNote.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D08A9B5C2785B98E00B75A0A /* 1.TwoSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1.TwoSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D0E7285A27903F1000DC1133 /* 3. Best Time to But and Sell Stock II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "3. Best Time to But and Sell Stock II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D0E7285B27904B6100DC1133 /* 4. Contains Duplicate.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "4. Contains Duplicate.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -98,6 +99,7 @@
 				FC280D7528B366FC007FD6F1 /* 342_PowerOfFour.playground */,
 				FC31A0E328B4BB230076514C /* 234_Palindrome_Linked_List.playground */,
 				FCE2BE9428B5AC550030FCDA /* 326_PowerOfThree.playground */,
+				D03D19BE28B755E600BFDEE2 /* 383_ransomNote.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
