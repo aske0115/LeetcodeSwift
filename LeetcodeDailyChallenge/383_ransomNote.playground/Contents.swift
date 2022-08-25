@@ -36,6 +36,19 @@
  */
 class Solution {
     func canConstruct(_ ransomNote: String, _ magazine: String) -> Bool {
+       
+        var mag = magazine
+        
+        for i in ransomNote {
+            if !mag.contains(i) {
+                return false
+            }
+            if let index = mag.firstIndex(of: i) {
+                mag.remove(at: index)
+            }
+        }
+        
+        return true
         
         
         let magazineCount = Dictionary(magazine.map { ($0,1)} , uniquingKeysWith: +)
