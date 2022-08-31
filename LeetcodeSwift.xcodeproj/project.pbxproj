@@ -23,6 +23,7 @@
 		FC7AB85B28A3DFD4008EB9AF /* 108.Convert Sorted Array to Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "108.Convert Sorted Array to Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC7AB85D28A3E879008EB9AF /* ValidPalindrome.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ValidPalindrome.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCA337DE28ABBF7C00AAA9F0 /* 2351_FirstLetterToAppearTwice(associate 387).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2351_FirstLetterToAppearTwice(associate 387).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FCA96ECE28BEFEF700651359 /* MoveZeroes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MoveZeroes.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCAE6F87288D1F9D0032CB1F /* RomanInteger.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RomanInteger.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCB9F29628BC923C00E69C70 /* IntersectinoOfTwoArrays2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = IntersectinoOfTwoArrays2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCB9F29728BC958300E69C70 /* Rotate Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Rotate Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -53,6 +54,7 @@
 				FCB9F29628BC923C00E69C70 /* IntersectinoOfTwoArrays2.playground */,
 				FCB9F29728BC958300E69C70 /* Rotate Array.playground */,
 				FCB9F29828BCC45500E69C70 /* ReverseInteger.playground */,
+				FCA96ECE28BEFEF700651359 /* MoveZeroes.playground */,
 			);
 			path = TopInterviewQuestions;
 			sourceTree = "<group>";
