@@ -93,13 +93,13 @@ class Solution {
         print("tree.left \(tree.left?.val)")
         print("tree.right \(tree.right?.val)")
         if tree.val >= greaterCount {
-            print("count")
             count += 1
         }
         
         var callCount = greaterCount + count
         
         var maxValue = max(tree.val, greaterCount)
+        print(count)
         return count + searchTree(tree.left, maxValue) + searchTree(tree.right, maxValue)
     }
 }

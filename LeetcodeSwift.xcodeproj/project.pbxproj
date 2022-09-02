@@ -26,6 +26,7 @@
 		FC9D953728C047ED009FBACF /* 1448_count_good_Nodes_In_Binary_Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1448_count_good_Nodes_In_Binary_Tree.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCA337DE28ABBF7C00AAA9F0 /* 2351_FirstLetterToAppearTwice(associate 387).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2351_FirstLetterToAppearTwice(associate 387).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCA96ECE28BEFEF700651359 /* MoveZeroes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MoveZeroes.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FCAB889528C18BCA00652244 /* 637_AvarageOfLevelsInBinaryTree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 637_AvarageOfLevelsInBinaryTree.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCAE6F87288D1F9D0032CB1F /* RomanInteger.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RomanInteger.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCB9F29628BC923C00E69C70 /* IntersectinoOfTwoArrays2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = IntersectinoOfTwoArrays2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCB9F29728BC958300E69C70 /* Rotate Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Rotate Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -116,6 +117,7 @@
 				D03D19BE28B755E600BFDEE2 /* 383_ransomNote.playground */,
 				FC26AD2D28BDC86B003A8879 /* 48_RotateImage.playground */,
 				FC9D953728C047ED009FBACF /* 1448_count_good_Nodes_In_Binary_Tree.playground */,
+				FCAB889528C18BCA00652244 /* 637_AvarageOfLevelsInBinaryTree.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
