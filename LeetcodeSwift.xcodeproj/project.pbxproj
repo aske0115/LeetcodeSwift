@@ -14,6 +14,7 @@
 		D0E7285B27904B6100DC1133 /* 4. Contains Duplicate.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "4. Contains Duplicate.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D0E7285C27906C5900DC1133 /* 5. Plus One.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "5. Plus One.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC05FECE28C4D96800FF8126 /* 28. Find the Index of the First Occurrence in a String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "28. Find the Index of the First Occurrence in a String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC1D868228C6C238008674D5 /* 429_n-ary_Tree_Level_Order_traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "429_n-ary_Tree_Level_Order_traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC26AD2D28BDC86B003A8879 /* 48_RotateImage.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 48_RotateImage.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC280D7528B366FC007FD6F1 /* 342_PowerOfFour.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 342_PowerOfFour.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC31A0E328B4BB230076514C /* 234_Palindrome_Linked_List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 234_Palindrome_Linked_List.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -120,6 +121,7 @@
 				FC26AD2D28BDC86B003A8879 /* 48_RotateImage.playground */,
 				FC9D953728C047ED009FBACF /* 1448_count_good_Nodes_In_Binary_Tree.playground */,
 				FCAB889528C18BCA00652244 /* 637_AvarageOfLevelsInBinaryTree.playground */,
+				FC1D868228C6C238008674D5 /* 429_n-ary_Tree_Level_Order_traversal.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
