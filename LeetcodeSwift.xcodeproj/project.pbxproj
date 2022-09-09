@@ -14,6 +14,7 @@
 		D0E7285B27904B6100DC1133 /* 4. Contains Duplicate.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "4. Contains Duplicate.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D0E7285C27906C5900DC1133 /* 5. Plus One.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "5. Plus One.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC05FECE28C4D96800FF8126 /* 28. Find the Index of the First Occurrence in a String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "28. Find the Index of the First Occurrence in a String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC0813C528C9824500B368E0 /* 94. Binary Tree Inorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "94. Binary Tree Inorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC1D868228C6C238008674D5 /* 429_n-ary_Tree_Level_Order_traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "429_n-ary_Tree_Level_Order_traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC1D868328C6D82D008674D5 /* 814. Binary Tree Pruning.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "814. Binary Tree Pruning.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC1D868428C71B1D008674D5 /* 14_Lognest Common Prefix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "14_Lognest Common Prefix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -39,6 +40,7 @@
 		FCBE74A028AC9B0900107F82 /* 804_Unique_Morse_Code_Words.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 804_Unique_Morse_Code_Words.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCC1628B28AB9D7900773A2C /* 387_FirstUniqueCharacterInString.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 387_FirstUniqueCharacterInString.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCCD8FCC28BC88F6002B9188 /* SingleNumber.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SingleNumber.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FCDBC03D28CB774F00493DB2 /* 1996. The Number of Weak Characters in the Game.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1996. The Number of Weak Characters in the Game.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCE2BE9428B5AC550030FCDA /* 326_PowerOfThree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 326_PowerOfThree.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCE698BD28AE5CAC003379E8 /* 1338_Reduce_Array_Size_to_The_Half.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1338_Reduce_Array_Size_to_The_Half.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
@@ -128,6 +130,8 @@
 				FC1D868228C6C238008674D5 /* 429_n-ary_Tree_Level_Order_traversal.playground */,
 				FC1D868328C6D82D008674D5 /* 814. Binary Tree Pruning.playground */,
 				FCA567AE28C8354700413660 /* 606_ConstructStringFromBinaryTree.playground */,
+				FC0813C528C9824500B368E0 /* 94. Binary Tree Inorder Traversal.playground */,
+				FCDBC03D28CB774F00493DB2 /* 1996. The Number of Weak Characters in the Game.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
