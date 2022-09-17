@@ -44,22 +44,21 @@
 
 class Solution {
     func numberOfWeakCharacters(_ properties: [[Int]]) -> Int {
-        
+
         var properties = properties.sorted(by: {$0[0] < $1[0] || ($0[0] == $1[0] && $0[1] > $1[1] ) })
-               print(properties)
                var maxTillNow = Int.min, count = properties.count
                var maxCount = 0
-               
+
                for i in stride(from:count-1, through: 0, by: -1) {
                    print(properties[i][1] )
                    print(maxTillNow)
                    if properties[i][1] < maxTillNow {
                        maxCount+=1
                    }
-                   
+
                    maxTillNow = max(properties[i][1],maxTillNow )
                }
-               
+
                return maxCount
 //        let sorted = properties.sorted { $0.first! < $1.first! }
 //        var groupedArray: [[[Int]]] = []
@@ -105,8 +104,8 @@ class Solution {
 //        print(count)
 //        print(sorted)
 //        print(groupedArray)
-        
-        
+
+
 //        var result: [Int] = []
 //        for (i,j) in properties.enumerated()  {
 //            if result.contains(i) {
@@ -131,3 +130,4 @@ class Solution {
 let sol = Solution()
 print(sol.numberOfWeakCharacters(
     [[7,7],[1,2],[9,7],[7,3],[3,10],[9,8],[8,10],[4,3],[1,5],[1,5]]))
+

@@ -15,6 +15,7 @@
 		D0E7285C27906C5900DC1133 /* 5. Plus One.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "5. Plus One.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC05FECE28C4D96800FF8126 /* 28. Find the Index of the First Occurrence in a String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "28. Find the Index of the First Occurrence in a String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC0813C528C9824500B368E0 /* 94. Binary Tree Inorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "94. Binary Tree Inorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC19588C28D5A42000F346EC /* 326. Power of Three.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "326. Power of Three.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC1D868228C6C238008674D5 /* 429_n-ary_Tree_Level_Order_traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "429_n-ary_Tree_Level_Order_traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC1D868328C6D82D008674D5 /* 814. Binary Tree Pruning.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "814. Binary Tree Pruning.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC1D868428C71B1D008674D5 /* 14_Lognest Common Prefix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "14_Lognest Common Prefix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -68,6 +69,7 @@
 				FC9D953628C02919009FBACF /* StringToInteger(atoi).playground */,
 				FC05FECE28C4D96800FF8126 /* 28. Find the Index of the First Occurrence in a String.playground */,
 				FC1D868428C71B1D008674D5 /* 14_Lognest Common Prefix.playground */,
+				FC19588C28D5A42000F346EC /* 326. Power of Three.playground */,
 			);
 			path = TopInterviewQuestions;
 			sourceTree = "<group>";
