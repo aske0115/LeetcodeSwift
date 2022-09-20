@@ -32,6 +32,7 @@
 		FC9D953728C047ED009FBACF /* 1448_count_good_Nodes_In_Binary_Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1448_count_good_Nodes_In_Binary_Tree.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCA337DE28ABBF7C00AAA9F0 /* 2351_FirstLetterToAppearTwice(associate 387).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2351_FirstLetterToAppearTwice(associate 387).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCA567AE28C8354700413660 /* 606_ConstructStringFromBinaryTree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 606_ConstructStringFromBinaryTree.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FCA7AD4328D9553000A0440D /* 718.Maximum Length of Repeated Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "718.Maximum Length of Repeated Subarray.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCA96ECE28BEFEF700651359 /* MoveZeroes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MoveZeroes.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCAB889528C18BCA00652244 /* 637_AvarageOfLevelsInBinaryTree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 637_AvarageOfLevelsInBinaryTree.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCAE6F87288D1F9D0032CB1F /* RomanInteger.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RomanInteger.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -138,6 +139,7 @@
 				FCA567AE28C8354700413660 /* 606_ConstructStringFromBinaryTree.playground */,
 				FC0813C528C9824500B368E0 /* 94. Binary Tree Inorder Traversal.playground */,
 				FCDBC03D28CB774F00493DB2 /* 1996. The Number of Weak Characters in the Game.playground */,
+				FCA7AD4328D9553000A0440D /* 718.Maximum Length of Repeated Subarray.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
