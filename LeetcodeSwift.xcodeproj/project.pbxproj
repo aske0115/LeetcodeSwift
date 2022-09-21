@@ -33,6 +33,7 @@
 		FCA337DE28ABBF7C00AAA9F0 /* 2351_FirstLetterToAppearTwice(associate 387).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2351_FirstLetterToAppearTwice(associate 387).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCA567AE28C8354700413660 /* 606_ConstructStringFromBinaryTree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 606_ConstructStringFromBinaryTree.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCA5852428DAA652006B1105 /* 985. Sum of Even Numbers After Queries.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "985. Sum of Even Numbers After Queries.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FCA5852628DAFE73006B1105 /* 1480. Running Sum of 1d Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1480. Running Sum of 1d Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCA7AD4328D9553000A0440D /* 718.Maximum Length of Repeated Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "718.Maximum Length of Repeated Subarray.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCA96ECE28BEFEF700651359 /* MoveZeroes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MoveZeroes.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCAB889528C18BCA00652244 /* 637_AvarageOfLevelsInBinaryTree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 637_AvarageOfLevelsInBinaryTree.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -54,6 +55,7 @@
 		D08A9B542785B85D00B75A0A = {
 			isa = PBXGroup;
 			children = (
+				FCA5852528DAFE55006B1105 /* leetcode75 */,
 				FC7AB85A28A3DFBB008EB9AF /* LeetcodeDailyChallenge */,
 				FC7AB85628A3D518008EB9AF /* neetcode_blind75 */,
 				FCAE6F86288D1F8D0032CB1F /* Exam */,
@@ -142,6 +144,7 @@
 				FCDBC03D28CB774F00493DB2 /* 1996. The Number of Weak Characters in the Game.playground */,
 				FCA7AD4328D9553000A0440D /* 718.Maximum Length of Repeated Subarray.playground */,
 				FCA5852428DAA652006B1105 /* 985. Sum of Even Numbers After Queries.playground */,
+				FCA5852628DAFE73006B1105 /* 1480. Running Sum of 1d Array.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
@@ -160,6 +163,13 @@
 				FCA337DE28ABBF7C00AAA9F0 /* 2351_FirstLetterToAppearTwice(associate 387).playground */,
 			);
 			path = AssociateProblems;
+			sourceTree = "<group>";
+		};
+		FCA5852528DAFE55006B1105 /* leetcode75 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = leetcode75;
 			sourceTree = "<group>";
 		};
 		FCAE6F86288D1F8D0032CB1F /* Exam */ = {
