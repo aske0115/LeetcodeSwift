@@ -46,6 +46,7 @@
 		FCB9F29828BCC45500E69C70 /* ReverseInteger.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ReverseInteger.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCBE74A028AC9B0900107F82 /* 804_Unique_Morse_Code_Words.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 804_Unique_Morse_Code_Words.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCC1628B28AB9D7900773A2C /* 387_FirstUniqueCharacterInString.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 387_FirstUniqueCharacterInString.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FCC7B34228DBEA1800D52249 /* 557. Reverse Words in a String III.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "557. Reverse Words in a String III.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCCD8FCC28BC88F6002B9188 /* SingleNumber.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SingleNumber.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCDBC03D28CB774F00493DB2 /* 1996. The Number of Weak Characters in the Game.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1996. The Number of Weak Characters in the Game.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCE2BE9428B5AC550030FCDA /* 326_PowerOfThree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 326_PowerOfThree.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -145,6 +146,7 @@
 				FCDBC03D28CB774F00493DB2 /* 1996. The Number of Weak Characters in the Game.playground */,
 				FCA7AD4328D9553000A0440D /* 718.Maximum Length of Repeated Subarray.playground */,
 				FCA5852428DAA652006B1105 /* 985. Sum of Even Numbers After Queries.playground */,
+				FCC7B34228DBEA1800D52249 /* 557. Reverse Words in a String III.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
