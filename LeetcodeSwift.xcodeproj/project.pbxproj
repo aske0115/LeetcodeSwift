@@ -22,6 +22,7 @@
 		FC26AD2D28BDC86B003A8879 /* 48_RotateImage.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 48_RotateImage.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC280D7528B366FC007FD6F1 /* 342_PowerOfFour.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 342_PowerOfFour.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC31A0E328B4BB230076514C /* 234_Palindrome_Linked_List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 234_Palindrome_Linked_List.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC49BEAC28DC38260022DC3F /* 392.Is Subsequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "392.Is Subsequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC5152C228B2053E00951CBF /* 2_Add Two Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2_Add Two Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC55FE1628A62C98006FECED /* TopKFrequentElements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TopKFrequentElements.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC7AB85828A3D547008EB9AF /* ValidAnagram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ValidAnagram.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -174,6 +175,7 @@
 				FCA5852628DAFE73006B1105 /* 1480. Running Sum of 1d Array.playground */,
 				FCA5852728DB0230006B1105 /* 724. Find Pivot Index.playground */,
 				FCC7B34328DBEE2D00D52249 /* 205. Isomorphic Strings.playground */,
+				FC49BEAC28DC38260022DC3F /* 392.Is Subsequence.playground */,
 			);
 			path = leetcode75;
 			sourceTree = "<group>";

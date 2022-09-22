@@ -77,3 +77,6 @@ class Solution {
 
 let sol = Solution()
 print(sol.isIsomorphic("paper", "title"))
+
+
+
