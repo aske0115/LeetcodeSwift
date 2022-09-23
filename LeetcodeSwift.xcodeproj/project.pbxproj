@@ -15,6 +15,7 @@
 		D0E7285C27906C5900DC1133 /* 5. Plus One.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "5. Plus One.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC05FECE28C4D96800FF8126 /* 28. Find the Index of the First Occurrence in a String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "28. Find the Index of the First Occurrence in a String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC0813C528C9824500B368E0 /* 94. Binary Tree Inorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "94. Binary Tree Inorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC17E10328DD6CD1007E0C4F /* 21. Merge Two Sorted Lists.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "21. Merge Two Sorted Lists.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC19588C28D5A42000F346EC /* 326. Power of Three.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "326. Power of Three.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC1D868228C6C238008674D5 /* 429_n-ary_Tree_Level_Order_traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "429_n-ary_Tree_Level_Order_traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC1D868328C6D82D008674D5 /* 814. Binary Tree Pruning.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "814. Binary Tree Pruning.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -176,6 +177,7 @@
 				FCA5852728DB0230006B1105 /* 724. Find Pivot Index.playground */,
 				FCC7B34328DBEE2D00D52249 /* 205. Isomorphic Strings.playground */,
 				FC49BEAC28DC38260022DC3F /* 392.Is Subsequence.playground */,
+				FC17E10328DD6CD1007E0C4F /* 21. Merge Two Sorted Lists.playground */,
 			);
 			path = leetcode75;
 			sourceTree = "<group>";
