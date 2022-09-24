@@ -57,15 +57,14 @@ class Solution {
         var hashMap: [Int : [(current: Int?, next: Int?)]] = [:]
         var root: ListNode? = head
         while root != nil {
-            if let value = hashMap[root!.val], value.contains { $0.current == root!.next?.val && $0.next == root!.next?.next?.val } {
-                return root
-            } else {
-                if let next = root!.next {
-                    if hashMap[root!.val] == nil {
-                        hashMap[root!.val] = [(current: root!.next?.val, next: root!.next?.next?.val)]
-                    } else {
-                        hashMap[root!.val]! += [(current: root!.next?.val, next: root!.next?.next?.val)]
+            if let next = root!.next {
+                if let val = hashMap[root!.val] {
+                    if val.contains { $0.current == root!.next?.val && $0.next == root!.next?.next?.val } {
+                        return root
                     }
+                    hashMap[root!.val]! += [(current: root!.next?.val, next: root!.next?.next?.val)]
+                } else {
+                    hashMap[root!.val] = [(current: root!.next?.val, next: root!.next?.next?.val)]
                 }
             }
             root = root?.next
