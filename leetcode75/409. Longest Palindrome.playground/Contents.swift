@@ -55,6 +55,7 @@ class Solution {
                     value += String(i)
                 }
                 resultString = "\(value)" + resultString + "\(value)"
+                
             }
         }
         return resultString.count
