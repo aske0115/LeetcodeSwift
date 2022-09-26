@@ -27,6 +27,8 @@
 		FC31A0E328B4BB230076514C /* 234_Palindrome_Linked_List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 234_Palindrome_Linked_List.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC324CB628DF440E002663EB /* 876. Middle of the Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "876. Middle of the Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC324CB728DF4485002663EB /* 142. Linked List Cycle II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "142. Linked List Cycle II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC40FBD428E13FE900758F58 /* 990. Satisfiability of Equality Equations.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "990. Satisfiability of Equality Equations.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC40FBD528E16EEB00758F58 /* 589. N-ary Tree Preorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "589. N-ary Tree Preorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC49BEAC28DC38260022DC3F /* 392.Is Subsequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "392.Is Subsequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC5152C228B2053E00951CBF /* 2_Add Two Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2_Add Two Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC55FE1628A62C98006FECED /* TopKFrequentElements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TopKFrequentElements.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -157,6 +159,7 @@
 				FCA5852428DAA652006B1105 /* 985. Sum of Even Numbers After Queries.playground */,
 				FCC7B34228DBEA1800D52249 /* 557. Reverse Words in a String III.playground */,
 				FC17E10528DDB3BB007E0C4F /* 1680. Concatenation of Consecutive Binary Numbers.playground */,
+				FC40FBD428E13FE900758F58 /* 990. Satisfiability of Equality Equations.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
@@ -190,6 +193,7 @@
 				FC324CB728DF4485002663EB /* 142. Linked List Cycle II.playground */,
 				FC79320828E0926200073485 /* 121. Best Time to Buy and Sell Stock.playground */,
 				FC79320928E092B100073485 /* 409. Longest Palindrome.playground */,
+				FC40FBD528E16EEB00758F58 /* 589. N-ary Tree Preorder Traversal.playground */,
 			);
 			path = leetcode75;
 			sourceTree = "<group>";
