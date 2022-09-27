@@ -15,6 +15,7 @@
 		D0E7285C27906C5900DC1133 /* 5. Plus One.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "5. Plus One.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC05FECE28C4D96800FF8126 /* 28. Find the Index of the First Occurrence in a String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "28. Find the Index of the First Occurrence in a String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC0813C528C9824500B368E0 /* 94. Binary Tree Inorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "94. Binary Tree Inorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC15224428E284FC0029000C /* 704. Binary Search.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "704. Binary Search.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC17E10328DD6CD1007E0C4F /* 21. Merge Two Sorted Lists.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "21. Merge Two Sorted Lists.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC17E10428DD77D5007E0C4F /* 206. Reverse Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "206. Reverse Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC17E10528DDB3BB007E0C4F /* 1680. Concatenation of Consecutive Binary Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1680. Concatenation of Consecutive Binary Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -196,6 +197,7 @@
 				FC79320928E092B100073485 /* 409. Longest Palindrome.playground */,
 				FC40FBD528E16EEB00758F58 /* 589. N-ary Tree Preorder Traversal.playground */,
 				FC40FBD628E18D0100758F58 /* 102. Binary Tree Level Order Traversal.playground */,
+				FC15224428E284FC0029000C /* 704. Binary Search.playground */,
 			);
 			path = leetcode75;
 			sourceTree = "<group>";
