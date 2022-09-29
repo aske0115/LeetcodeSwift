@@ -72,3 +72,4 @@ class Solution {
         return Set(result).count == result.count && result == result.sorted()
     }
 }
+

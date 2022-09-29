@@ -16,6 +16,7 @@
 		FC05FECE28C4D96800FF8126 /* 28. Find the Index of the First Occurrence in a String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "28. Find the Index of the First Occurrence in a String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC0813C528C9824500B368E0 /* 94. Binary Tree Inorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "94. Binary Tree Inorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC0CC7C628E3D13A00BBAA6A /* 98. Validate Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "98. Validate Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC0CC7C728E406BA00BBAA6A /* 235. Lowest Common Ancestor of a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "235. Lowest Common Ancestor of a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC15224428E284FC0029000C /* 704. Binary Search.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "704. Binary Search.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC15224528E2A32B0029000C /* 278. First Bad Version.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "278. First Bad Version.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC17E10328DD6CD1007E0C4F /* 21. Merge Two Sorted Lists.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "21. Merge Two Sorted Lists.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -42,6 +43,8 @@
 		FC7AB85928A3D6DF008EB9AF /* GroupAnagrams.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = GroupAnagrams.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC7AB85B28A3DFD4008EB9AF /* 108.Convert Sorted Array to Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "108.Convert Sorted Array to Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC7AB85D28A3E879008EB9AF /* ValidPalindrome.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ValidPalindrome.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC8F862928E555990042F6E7 /* 733. Flood Fill.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "733. Flood Fill.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC8F862A28E5784F0042F6E7 /* 200. Number of Islands.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "200. Number of Islands.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC9D953628C02919009FBACF /* StringToInteger(atoi).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "StringToInteger(atoi).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC9D953728C047ED009FBACF /* 1448_count_good_Nodes_In_Binary_Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1448_count_good_Nodes_In_Binary_Tree.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCA337DE28ABBF7C00AAA9F0 /* 2351_FirstLetterToAppearTwice(associate 387).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2351_FirstLetterToAppearTwice(associate 387).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -202,6 +205,9 @@
 				FC15224428E284FC0029000C /* 704. Binary Search.playground */,
 				FC15224528E2A32B0029000C /* 278. First Bad Version.playground */,
 				FC0CC7C628E3D13A00BBAA6A /* 98. Validate Binary Search Tree.playground */,
+				FC0CC7C728E406BA00BBAA6A /* 235. Lowest Common Ancestor of a Binary Search Tree.playground */,
+				FC8F862928E555990042F6E7 /* 733. Flood Fill.playground */,
+				FC8F862A28E5784F0042F6E7 /* 200. Number of Islands.playground */,
 			);
 			path = leetcode75;
 			sourceTree = "<group>";
