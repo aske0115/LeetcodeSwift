@@ -35,6 +35,7 @@
 		FC40FBD528E16EEB00758F58 /* 589. N-ary Tree Preorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "589. N-ary Tree Preorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC40FBD628E18D0100758F58 /* 102. Binary Tree Level Order Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "102. Binary Tree Level Order Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC49BEAC28DC38260022DC3F /* 392.Is Subsequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "392.Is Subsequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC4A1B4428EA892D00510352 /* 746. Min Cost Climbing Stairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "746. Min Cost Climbing Stairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC5152C228B2053E00951CBF /* 2_Add Two Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2_Add Two Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC55FE1628A62C98006FECED /* TopKFrequentElements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TopKFrequentElements.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC79320828E0926200073485 /* 121. Best Time to Buy and Sell Stock.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "121. Best Time to Buy and Sell Stock.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -212,6 +213,7 @@
 				FC8F862A28E5784F0042F6E7 /* 200. Number of Islands.playground */,
 				FCFDC70E28E6BF62004B0D21 /* 509.Fibonacci Number.playground */,
 				FCFDC70F28E6C81D004B0D21 /* 70. Climbing Stairs.playground */,
+				FC4A1B4428EA892D00510352 /* 746. Min Cost Climbing Stairs.playground */,
 			);
 			path = leetcode75;
 			sourceTree = "<group>";
