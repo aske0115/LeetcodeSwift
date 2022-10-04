@@ -70,6 +70,7 @@
 		FCDBC03D28CB774F00493DB2 /* 1996. The Number of Weak Characters in the Game.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1996. The Number of Weak Characters in the Game.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCE2BE9428B5AC550030FCDA /* 326_PowerOfThree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 326_PowerOfThree.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCE698BD28AE5CAC003379E8 /* 1338_Reduce_Array_Size_to_The_Half.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1338_Reduce_Array_Size_to_The_Half.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FCFA31A028EC008600BCCDC2 /* 844.BackSpace String Compare.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "844.BackSpace String Compare.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCFDC70E28E6BF62004B0D21 /* 509.Fibonacci Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "509.Fibonacci Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCFDC70F28E6C81D004B0D21 /* 70. Climbing Stairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "70. Climbing Stairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
@@ -214,6 +215,7 @@
 				FCFDC70E28E6BF62004B0D21 /* 509.Fibonacci Number.playground */,
 				FCFDC70F28E6C81D004B0D21 /* 70. Climbing Stairs.playground */,
 				FC4A1B4428EA892D00510352 /* 746. Min Cost Climbing Stairs.playground */,
+				FCFA31A028EC008600BCCDC2 /* 844.BackSpace String Compare.playground */,
 			);
 			path = leetcode75;
 			sourceTree = "<group>";
