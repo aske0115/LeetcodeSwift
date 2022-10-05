@@ -39,6 +39,7 @@
 		FC5152C228B2053E00951CBF /* 2_Add Two Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2_Add Two Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC55FE1628A62C98006FECED /* TopKFrequentElements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TopKFrequentElements.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC6D53E628ED51160090795F /* 1046. Last Stone Weight.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1046. Last Stone Weight.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC6D53E728ED6FCB0090795F /* 692. Top K Frequent Words.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "692. Top K Frequent Words.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC79320828E0926200073485 /* 121. Best Time to Buy and Sell Stock.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "121. Best Time to Buy and Sell Stock.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC79320928E092B100073485 /* 409. Longest Palindrome.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "409. Longest Palindrome.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC7AB85828A3D547008EB9AF /* ValidAnagram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ValidAnagram.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -220,6 +221,7 @@
 				FCFA31A028EC008600BCCDC2 /* 844.BackSpace String Compare.playground */,
 				FCFA31A128EC320300BCCDC2 /* 438. Find All Anagrams in a String.playground */,
 				FC6D53E628ED51160090795F /* 1046. Last Stone Weight.playground */,
+				FC6D53E728ED6FCB0090795F /* 692. Top K Frequent Words.playground */,
 			);
 			path = leetcode75;
 			sourceTree = "<group>";
