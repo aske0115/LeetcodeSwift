@@ -31,6 +31,7 @@
 		FC31A0E328B4BB230076514C /* 234_Palindrome_Linked_List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 234_Palindrome_Linked_List.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC324CB628DF440E002663EB /* 876. Middle of the Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "876. Middle of the Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC324CB728DF4485002663EB /* 142. Linked List Cycle II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "142. Linked List Cycle II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC3E41BF28EE824E00073B45 /* 981. Time Based Key-Value Store.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "981. Time Based Key-Value Store.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC40FBD428E13FE900758F58 /* 990. Satisfiability of Equality Equations.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "990. Satisfiability of Equality Equations.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC40FBD528E16EEB00758F58 /* 589. N-ary Tree Preorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "589. N-ary Tree Preorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC40FBD628E18D0100758F58 /* 102. Binary Tree Level Order Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "102. Binary Tree Level Order Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -38,8 +39,10 @@
 		FC4A1B4428EA892D00510352 /* 746. Min Cost Climbing Stairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "746. Min Cost Climbing Stairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC5152C228B2053E00951CBF /* 2_Add Two Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2_Add Two Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC55FE1628A62C98006FECED /* TopKFrequentElements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TopKFrequentElements.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC636A5628F541AE00491B40 /* 334. Increasing Triplet Subsequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "334. Increasing Triplet Subsequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC6D53E628ED51160090795F /* 1046. Last Stone Weight.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1046. Last Stone Weight.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC6D53E728ED6FCB0090795F /* 692. Top K Frequent Words.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "692. Top K Frequent Words.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC6D53E828ED832B0090795F /* 394. Decode String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "394. Decode String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC79320828E0926200073485 /* 121. Best Time to Buy and Sell Stock.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "121. Best Time to Buy and Sell Stock.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC79320928E092B100073485 /* 409. Longest Palindrome.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "409. Longest Palindrome.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC7AB85828A3D547008EB9AF /* ValidAnagram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ValidAnagram.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -174,6 +177,8 @@
 				FCC7B34228DBEA1800D52249 /* 557. Reverse Words in a String III.playground */,
 				FC17E10528DDB3BB007E0C4F /* 1680. Concatenation of Consecutive Binary Numbers.playground */,
 				FC40FBD428E13FE900758F58 /* 990. Satisfiability of Equality Equations.playground */,
+				FC3E41BF28EE824E00073B45 /* 981. Time Based Key-Value Store.playground */,
+				FC636A5628F541AE00491B40 /* 334. Increasing Triplet Subsequence.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
@@ -222,6 +227,7 @@
 				FCFA31A128EC320300BCCDC2 /* 438. Find All Anagrams in a String.playground */,
 				FC6D53E628ED51160090795F /* 1046. Last Stone Weight.playground */,
 				FC6D53E728ED6FCB0090795F /* 692. Top K Frequent Words.playground */,
+				FC6D53E828ED832B0090795F /* 394. Decode String.playground */,
 			);
 			path = leetcode75;
 			sourceTree = "<group>";
