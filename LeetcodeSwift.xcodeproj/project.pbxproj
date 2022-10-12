@@ -17,6 +17,7 @@
 		FC0813C528C9824500B368E0 /* 94. Binary Tree Inorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "94. Binary Tree Inorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC0CC7C628E3D13A00BBAA6A /* 98. Validate Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "98. Validate Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC0CC7C728E406BA00BBAA6A /* 235. Lowest Common Ancestor of a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "235. Lowest Common Ancestor of a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC13B73128F68FF600F90F50 /* 976. Largest Perimeter Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "976. Largest Perimeter Triangle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC15224428E284FC0029000C /* 704. Binary Search.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "704. Binary Search.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC15224528E2A32B0029000C /* 278. First Bad Version.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "278. First Bad Version.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC17E10328DD6CD1007E0C4F /* 21. Merge Two Sorted Lists.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "21. Merge Two Sorted Lists.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -179,6 +180,7 @@
 				FC40FBD428E13FE900758F58 /* 990. Satisfiability of Equality Equations.playground */,
 				FC3E41BF28EE824E00073B45 /* 981. Time Based Key-Value Store.playground */,
 				FC636A5628F541AE00491B40 /* 334. Increasing Triplet Subsequence.playground */,
+				FC13B73128F68FF600F90F50 /* 976. Largest Perimeter Triangle.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
