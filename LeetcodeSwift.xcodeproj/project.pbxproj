@@ -53,6 +53,7 @@
 		FC7AB85D28A3E879008EB9AF /* ValidPalindrome.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ValidPalindrome.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC8F862928E555990042F6E7 /* 733. Flood Fill.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "733. Flood Fill.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC8F862A28E5784F0042F6E7 /* 200. Number of Islands.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "200. Number of Islands.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC93760528FAF21100EE3CF1 /* 53. Maximum Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "53. Maximum Subarray.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC9D953628C02919009FBACF /* StringToInteger(atoi).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "StringToInteger(atoi).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC9D953728C047ED009FBACF /* 1448_count_good_Nodes_In_Binary_Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1448_count_good_Nodes_In_Binary_Tree.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCA337DE28ABBF7C00AAA9F0 /* 2351_FirstLetterToAppearTwice(associate 387).playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2351_FirstLetterToAppearTwice(associate 387).playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -87,6 +88,7 @@
 		D08A9B542785B85D00B75A0A = {
 			isa = PBXGroup;
 			children = (
+				FC93760428FAF20200EE3CF1 /* DataStructure */,
 				FCA5852528DAFE55006B1105 /* leetcode75 */,
 				FC7AB85A28A3DFBB008EB9AF /* LeetcodeDailyChallenge */,
 				FC7AB85628A3D518008EB9AF /* neetcode_blind75 */,
@@ -193,6 +195,14 @@
 				FC7AB85D28A3E879008EB9AF /* ValidPalindrome.playground */,
 			);
 			path = "Two Pointers";
+			sourceTree = "<group>";
+		};
+		FC93760428FAF20200EE3CF1 /* DataStructure */ = {
+			isa = PBXGroup;
+			children = (
+				FC93760528FAF21100EE3CF1 /* 53. Maximum Subarray.playground */,
+			);
+			path = DataStructure;
 			sourceTree = "<group>";
 		};
 		FCA337DD28ABBF4F00AAA9F0 /* AssociateProblems */ = {
