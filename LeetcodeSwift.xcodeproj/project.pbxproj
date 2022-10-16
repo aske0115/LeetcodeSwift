@@ -70,6 +70,7 @@
 		FCB9F29628BC923C00E69C70 /* IntersectinoOfTwoArrays2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = IntersectinoOfTwoArrays2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCB9F29728BC958300E69C70 /* Rotate Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Rotate Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCB9F29828BCC45500E69C70 /* ReverseInteger.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ReverseInteger.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FCBCBF7628FBE75600483644 /* 88. Merge Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "88. Merge Sorted Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCBE74A028AC9B0900107F82 /* 804_Unique_Morse_Code_Words.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 804_Unique_Morse_Code_Words.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCC1628B28AB9D7900773A2C /* 387_FirstUniqueCharacterInString.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 387_FirstUniqueCharacterInString.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCC7B34228DBEA1800D52249 /* 557. Reverse Words in a String III.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "557. Reverse Words in a String III.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -201,6 +202,7 @@
 			isa = PBXGroup;
 			children = (
 				FC93760528FAF21100EE3CF1 /* 53. Maximum Subarray.playground */,
+				FCBCBF7628FBE75600483644 /* 88. Merge Sorted Array.playground */,
 			);
 			path = DataStructure;
 			sourceTree = "<group>";
