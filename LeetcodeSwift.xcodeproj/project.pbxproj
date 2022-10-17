@@ -79,6 +79,7 @@
 		FCDBC03D28CB774F00493DB2 /* 1996. The Number of Weak Characters in the Game.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1996. The Number of Weak Characters in the Game.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCE2BE9428B5AC550030FCDA /* 326_PowerOfThree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 326_PowerOfThree.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCE698BD28AE5CAC003379E8 /* 1338_Reduce_Array_Size_to_The_Half.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1338_Reduce_Array_Size_to_The_Half.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FCF7842F28FCF88E00649680 /* 1832. Check if the Sentence Is Pangram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1832. Check if the Sentence Is Pangram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCFA31A028EC008600BCCDC2 /* 844.BackSpace String Compare.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "844.BackSpace String Compare.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCFA31A128EC320300BCCDC2 /* 438. Find All Anagrams in a String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "438. Find All Anagrams in a String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCFDC70E28E6BF62004B0D21 /* 509.Fibonacci Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "509.Fibonacci Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -186,6 +187,7 @@
 				FC3E41BF28EE824E00073B45 /* 981. Time Based Key-Value Store.playground */,
 				FC636A5628F541AE00491B40 /* 334. Increasing Triplet Subsequence.playground */,
 				FC13B73128F68FF600F90F50 /* 976. Largest Perimeter Triangle.playground */,
+				FCF7842F28FCF88E00649680 /* 1832. Check if the Sentence Is Pangram.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
