@@ -51,6 +51,8 @@
 		FC7AB85928A3D6DF008EB9AF /* GroupAnagrams.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = GroupAnagrams.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC7AB85B28A3DFD4008EB9AF /* 108.Convert Sorted Array to Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "108.Convert Sorted Array to Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC7AB85D28A3E879008EB9AF /* ValidPalindrome.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ValidPalindrome.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC8D040728FE41750080FE04 /* 38. Count and Say.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "38. Count and Say.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC8D040828FE69630080FE04 /* 566. Reshape the Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "566. Reshape the Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC8F862928E555990042F6E7 /* 733. Flood Fill.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "733. Flood Fill.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC8F862A28E5784F0042F6E7 /* 200. Number of Islands.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "200. Number of Islands.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC93760528FAF21100EE3CF1 /* 53. Maximum Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "53. Maximum Subarray.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -188,6 +190,7 @@
 				FC636A5628F541AE00491B40 /* 334. Increasing Triplet Subsequence.playground */,
 				FC13B73128F68FF600F90F50 /* 976. Largest Perimeter Triangle.playground */,
 				FCF7842F28FCF88E00649680 /* 1832. Check if the Sentence Is Pangram.playground */,
+				FC8D040728FE41750080FE04 /* 38. Count and Say.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
@@ -205,6 +208,7 @@
 			children = (
 				FC93760528FAF21100EE3CF1 /* 53. Maximum Subarray.playground */,
 				FCBCBF7628FBE75600483644 /* 88. Merge Sorted Array.playground */,
+				FC8D040828FE69630080FE04 /* 566. Reshape the Matrix.playground */,
 			);
 			path = DataStructure;
 			sourceTree = "<group>";
