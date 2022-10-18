@@ -53,6 +53,7 @@
 		FC7AB85D28A3E879008EB9AF /* ValidPalindrome.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ValidPalindrome.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC8D040728FE41750080FE04 /* 38. Count and Say.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "38. Count and Say.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC8D040828FE69630080FE04 /* 566. Reshape the Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "566. Reshape the Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC8D040928FE726C0080FE04 /* 118. Pascal's Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "118. Pascal's Triangle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC8F862928E555990042F6E7 /* 733. Flood Fill.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "733. Flood Fill.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC8F862A28E5784F0042F6E7 /* 200. Number of Islands.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "200. Number of Islands.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC93760528FAF21100EE3CF1 /* 53. Maximum Subarray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "53. Maximum Subarray.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -209,6 +210,7 @@
 				FC93760528FAF21100EE3CF1 /* 53. Maximum Subarray.playground */,
 				FCBCBF7628FBE75600483644 /* 88. Merge Sorted Array.playground */,
 				FC8D040828FE69630080FE04 /* 566. Reshape the Matrix.playground */,
+				FC8D040928FE726C0080FE04 /* 118. Pascal's Triangle.playground */,
 			);
 			path = DataStructure;
 			sourceTree = "<group>";
