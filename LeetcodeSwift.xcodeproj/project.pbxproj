@@ -41,6 +41,7 @@
 		FC4A1B4428EA892D00510352 /* 746. Min Cost Climbing Stairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "746. Min Cost Climbing Stairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC5152C228B2053E00951CBF /* 2_Add Two Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2_Add Two Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC55FE1628A62C98006FECED /* TopKFrequentElements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TopKFrequentElements.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC5B31FF28FF934D00B8459E /* 74. Search a 2D Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "74. Search a 2D Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC636A5628F541AE00491B40 /* 334. Increasing Triplet Subsequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "334. Increasing Triplet Subsequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC6D53E628ED51160090795F /* 1046. Last Stone Weight.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1046. Last Stone Weight.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC6D53E728ED6FCB0090795F /* 692. Top K Frequent Words.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "692. Top K Frequent Words.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -211,6 +212,7 @@
 				FCBCBF7628FBE75600483644 /* 88. Merge Sorted Array.playground */,
 				FC8D040828FE69630080FE04 /* 566. Reshape the Matrix.playground */,
 				FC8D040928FE726C0080FE04 /* 118. Pascal's Triangle.playground */,
+				FC5B31FF28FF934D00B8459E /* 74. Search a 2D Matrix.playground */,
 			);
 			path = DataStructure;
 			sourceTree = "<group>";

@@ -46,10 +46,11 @@ class Solution {
                 return $0.key < $1.key
             } else {
                 return $0.value > $1.value
+        
             }
         }.map { String($0.key) }
 
-        return Array(frequency[0..<k])
+        return Array(frequency.prefix(k))
     }
 }
 
