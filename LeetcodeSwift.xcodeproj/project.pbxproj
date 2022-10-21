@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		D039BB06278C5C24009142ED /* 2.Remove Duplicates from Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2.Remove Duplicates from Sorted Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D03A2A7A29028BBF00DA745F /* 141. Linked List Cycle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "141. Linked List Cycle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D03D19BE28B755E600BFDEE2 /* 383_ransomNote.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 383_ransomNote.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D08A9B5C2785B98E00B75A0A /* 1.TwoSum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1.TwoSum.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D0B807AF29027978009D896C /* 219. Contains Duplicate II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "219. Contains Duplicate II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -217,6 +218,7 @@
 				FC8D040828FE69630080FE04 /* 566. Reshape the Matrix.playground */,
 				FC8D040928FE726C0080FE04 /* 118. Pascal's Triangle.playground */,
 				FC5B31FF28FF934D00B8459E /* 74. Search a 2D Matrix.playground */,
+				D03A2A7A29028BBF00DA745F /* 141. Linked List Cycle.playground */,
 			);
 			path = DataStructure;
 			sourceTree = "<group>";
