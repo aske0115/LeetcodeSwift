@@ -65,21 +65,21 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>76</integer>
+			<integer>47</integer>
 		</dict>
 		<key>102. Binary Tree Level Order Traversal (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>13</integer>
+			<integer>5</integer>
 		</dict>
 		<key>1046. Last Stone Weight (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>57</integer>
+			<integer>71</integer>
 		</dict>
 		<key>108.Convert Sorted Array to Binary Search Tree (Playground) 1.xcscheme</key>
 		<dict>
@@ -100,28 +100,28 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>32</integer>
+			<integer>44</integer>
 		</dict>
 		<key>118. Pascal's Triangle (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>7</integer>
+			<integer>46</integer>
 		</dict>
 		<key>12. Integer to Roman (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>53</integer>
+			<integer>57</integer>
 		</dict>
 		<key>121. Best Time to Buy and Sell Stock (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>75</integer>
+			<integer>31</integer>
 		</dict>
 		<key>1338_Reduce_Array_Size_to_The_Half (Playground) 1.xcscheme</key>
 		<dict>
@@ -142,7 +142,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>34</integer>
+			<integer>4</integer>
 		</dict>
 		<key>141. Linked List Cycle (Playground) 1.xcscheme</key>
 		<dict>
@@ -163,63 +163,63 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>83</integer>
+			<integer>8</integer>
 		</dict>
 		<key>142. Linked List Cycle II (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>69</integer>
+			<integer>15</integer>
 		</dict>
 		<key>1448_count_good_Nodes_In_Binary_Tree (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>39</integer>
+			<integer>26</integer>
 		</dict>
 		<key>1480. Running Sum of 1d Array (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>71</integer>
+			<integer>30</integer>
 		</dict>
 		<key>14_Lognest Common Prefix (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>54</integer>
+			<integer>69</integer>
 		</dict>
 		<key>1680. Concatenation of Consecutive Binary Numbers (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>51</integer>
+			<integer>7</integer>
 		</dict>
 		<key>1832. Check if the Sentence Is Pangram (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>60</integer>
+			<integer>83</integer>
 		</dict>
 		<key>19. Remove Nth Node From End of List (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>23</integer>
+			<integer>22</integer>
 		</dict>
 		<key>1996. The Number of Weak Characters in the Game (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>78</integer>
+			<integer>75</integer>
 		</dict>
 		<key>2.Remove Duplicates from Sorted Array (Playground) 1.xcscheme</key>
 		<dict>
@@ -240,42 +240,63 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>10</integer>
 		</dict>
 		<key>200. Number of Islands (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>29</integer>
+			<integer>78</integer>
+		</dict>
+		<key>203. Remove Linked List Elements (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>87</integer>
+		</dict>
+		<key>203. Remove Linked List Elements (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>88</integer>
+		</dict>
+		<key>203. Remove Linked List Elements (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>74</integer>
 		</dict>
 		<key>205. Isomorphic Strings (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>5</integer>
+			<integer>54</integer>
 		</dict>
 		<key>206. Reverse Linked List (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>12</integer>
+			<integer>79</integer>
 		</dict>
 		<key>2095. Delete the Middle Node of a Linked List (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>16</integer>
+			<integer>6</integer>
 		</dict>
 		<key>21. Merge Two Sorted Lists (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>68</integer>
+			<integer>32</integer>
 		</dict>
 		<key>219. Contains Duplicate II (Playground) 1.xcscheme</key>
 		<dict>
@@ -296,7 +317,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>81</integer>
+			<integer>67</integer>
 		</dict>
 		<key>234_Palindrome_Linked_List (Playground) 1.xcscheme</key>
 		<dict>
@@ -317,14 +338,14 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>55</integer>
+			<integer>29</integer>
 		</dict>
 		<key>235. Lowest Common Ancestor of a Binary Search Tree (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>63</integer>
+			<integer>40</integer>
 		</dict>
 		<key>2351_FirstLetterToAppearTwice(associate 387) (Playground) 1.xcscheme</key>
 		<dict>
@@ -345,28 +366,28 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>74</integer>
+			<integer>33</integer>
 		</dict>
 		<key>237.DeleteNodeInALinkedList (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>56</integer>
+			<integer>28</integer>
 		</dict>
 		<key>278. First Bad Version (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>79</integer>
+			<integer>82</integer>
 		</dict>
 		<key>28. Find the Index of the First Occurrence in a String (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>41</integer>
+			<integer>48</integer>
 		</dict>
 		<key>2_Add Two Numbers (Playground) 1.xcscheme</key>
 		<dict>
@@ -387,7 +408,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>30</integer>
+			<integer>16</integer>
 		</dict>
 		<key>3. Best Time to But and Sell Stock II (Playground) 1.xcscheme</key>
 		<dict>
@@ -408,14 +429,14 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>6</integer>
+			<integer>35</integer>
 		</dict>
 		<key>326. Power of Three (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>14</integer>
+			<integer>73</integer>
 		</dict>
 		<key>326_PowerOfThree (Playground) 1.xcscheme</key>
 		<dict>
@@ -436,14 +457,14 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>52</integer>
+			<integer>64</integer>
 		</dict>
 		<key>334. Increasing Triplet Subsequence (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>19</integer>
+			<integer>17</integer>
 		</dict>
 		<key>342_PowerOfFour (Playground) 1.xcscheme</key>
 		<dict>
@@ -464,14 +485,14 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>3</integer>
+			<integer>37</integer>
 		</dict>
 		<key>38. Count and Say (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>43</integer>
+			<integer>56</integer>
 		</dict>
 		<key>383_ransomNote (Playground) 1.xcscheme</key>
 		<dict>
@@ -492,7 +513,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>20</integer>
+			<integer>42</integer>
 		</dict>
 		<key>387_FirstUniqueCharacterInString (Playground) 1.xcscheme</key>
 		<dict>
@@ -513,21 +534,21 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>48</integer>
+			<integer>34</integer>
 		</dict>
 		<key>392.Is Subsequence (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>11</integer>
+			<integer>80</integer>
 		</dict>
 		<key>394. Decode String (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>8</integer>
+			<integer>12</integer>
 		</dict>
 		<key>4. Contains Duplicate (Playground) 1.xcscheme</key>
 		<dict>
@@ -548,35 +569,35 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>58</integer>
+			<integer>18</integer>
 		</dict>
 		<key>409. Longest Palindrome (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>10</integer>
+			<integer>1</integer>
 		</dict>
 		<key>429_n-ary_Tree_Level_Order_traversal (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>17</integer>
+			<integer>62</integer>
 		</dict>
 		<key>438. Find All Anagrams in a String (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>72</integer>
+			<integer>43</integer>
 		</dict>
 		<key>48_RotateImage (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>73</integer>
+			<integer>27</integer>
 		</dict>
 		<key>5. Plus One (Playground) 1.xcscheme</key>
 		<dict>
@@ -597,112 +618,112 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>22</integer>
+			<integer>72</integer>
 		</dict>
 		<key>509.Fibonacci Number (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>65</integer>
+			<integer>25</integer>
 		</dict>
 		<key>53. Maximum Subarray (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>70</integer>
 		</dict>
 		<key>557. Reverse Words in a String III (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>36</integer>
+			<integer>59</integer>
 		</dict>
 		<key>566. Reshape the Matrix (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>44</integer>
+			<integer>41</integer>
 		</dict>
 		<key>589. N-ary Tree Preorder Traversal (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>70</integer>
+			<integer>76</integer>
 		</dict>
 		<key>606_ConstructStringFromBinaryTree (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>28</integer>
+			<integer>68</integer>
 		</dict>
 		<key>637_AvarageOfLevelsInBinaryTree (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>15</integer>
+			<integer>0</integer>
 		</dict>
 		<key>692. Top K Frequent Words (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>33</integer>
+			<integer>55</integer>
 		</dict>
 		<key>70. Climbing Stairs (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>38</integer>
+			<integer>63</integer>
 		</dict>
 		<key>704. Binary Search (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>27</integer>
+			<integer>50</integer>
 		</dict>
 		<key>718.Maximum Length of Repeated Subarray (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>67</integer>
+			<integer>38</integer>
 		</dict>
 		<key>724. Find Pivot Index (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>24</integer>
+			<integer>19</integer>
 		</dict>
 		<key>733. Flood Fill (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>66</integer>
+			<integer>2</integer>
 		</dict>
 		<key>74. Search a 2D Matrix (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>80</integer>
+			<integer>81</integer>
 		</dict>
 		<key>746. Min Cost Climbing Stairs (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>46</integer>
+			<integer>3</integer>
 		</dict>
 		<key>804_Unique_Morse_Code_Words (Playground) 1.xcscheme</key>
 		<dict>
@@ -723,77 +744,98 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>25</integer>
+			<integer>66</integer>
 		</dict>
 		<key>814. Binary Tree Pruning (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>64</integer>
+			<integer>60</integer>
+		</dict>
+		<key>83. Remove Duplicates from Sorted List (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>86</integer>
+		</dict>
+		<key>83. Remove Duplicates from Sorted List (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>87</integer>
+		</dict>
+		<key>83. Remove Duplicates from Sorted List (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>85</integer>
 		</dict>
 		<key>844.BackSpace String Compare (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>82</integer>
+			<integer>61</integer>
 		</dict>
 		<key>876. Middle of the Linked List (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>18</integer>
+			<integer>23</integer>
 		</dict>
 		<key>88. Merge Sorted Array (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>42</integer>
+			<integer>36</integer>
 		</dict>
 		<key>94. Binary Tree Inorder Traversal (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>50</integer>
+			<integer>84</integer>
 		</dict>
 		<key>976. Largest Perimeter Triangle (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>21</integer>
+			<integer>11</integer>
 		</dict>
 		<key>98. Validate Binary Search Tree (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>49</integer>
+			<integer>21</integer>
 		</dict>
 		<key>981. Time Based Key-Value Store (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>59</integer>
+			<integer>39</integer>
 		</dict>
 		<key>985. Sum of Even Numbers After Queries (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>31</integer>
+			<integer>77</integer>
 		</dict>
 		<key>990. Satisfiability of Equality Equations (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>2</integer>
+			<integer>9</integer>
 		</dict>
 		<key>GroupAnagrams (Playground) 1.xcscheme</key>
 		<dict>
@@ -814,21 +856,21 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>62</integer>
+			<integer>20</integer>
 		</dict>
 		<key>IntersectinoOfTwoArrays2 (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>35</integer>
+			<integer>52</integer>
 		</dict>
 		<key>MoveZeroes (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>9</integer>
+			<integer>51</integer>
 		</dict>
 		<key>Remove Duplicates from Sorted Array (Playground) 1.xcscheme</key>
 		<dict>
@@ -856,7 +898,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>26</integer>
+			<integer>58</integer>
 		</dict>
 		<key>RomanInteger (Playground) 1.xcscheme</key>
 		<dict>
@@ -877,28 +919,28 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>77</integer>
+			<integer>14</integer>
 		</dict>
 		<key>Rotate Array (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>61</integer>
+			<integer>45</integer>
 		</dict>
 		<key>SingleNumber (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>47</integer>
+			<integer>49</integer>
 		</dict>
 		<key>StringToInteger(atoi) (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>45</integer>
+			<integer>53</integer>
 		</dict>
 		<key>TopKFrequentElements (Playground) 1.xcscheme</key>
 		<dict>
@@ -919,7 +961,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>40</integer>
+			<integer>24</integer>
 		</dict>
 		<key>ValidAnagram (Playground) 1.xcscheme</key>
 		<dict>
@@ -940,7 +982,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>4</integer>
+			<integer>65</integer>
 		</dict>
 		<key>ValidPalindrome (Playground) 1.xcscheme</key>
 		<dict>
@@ -961,7 +1003,7 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>37</integer>
+			<integer>13</integer>
 		</dict>
 	</dict>
 </dict>
