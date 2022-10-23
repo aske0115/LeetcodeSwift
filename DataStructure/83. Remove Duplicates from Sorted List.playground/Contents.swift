@@ -31,6 +31,16 @@
  -100 <= Node.val <= 100
  The list is guaranteed to be sorted in ascending order.
  */
+
+public class ListNode {
+    public var val: Int
+    public var next: ListNode?
+    public init(_ val: Int) {
+        self.val = val
+        self.next = nil
+    }
+}
+
 class Solution {
     func deleteDuplicates(_ head: ListNode?) -> ListNode? {
         guard let head = head else { return nil }
