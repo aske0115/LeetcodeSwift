@@ -372,6 +372,27 @@
 			<key>orderHint</key>
 			<integer>48</integer>
 		</dict>
+		<key>20. Valid Parentheses (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>262</integer>
+		</dict>
+		<key>20. Valid Parentheses (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>263</integer>
+		</dict>
+		<key>20. Valid Parentheses (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>261</integer>
+		</dict>
 		<key>200. Number of Islands (Playground) 1.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
