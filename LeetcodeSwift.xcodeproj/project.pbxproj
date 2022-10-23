@@ -9,6 +9,7 @@
 /* Begin PBXFileReference section */
 		D02D62CD29058BA000BD4764 /* 645. Set Mismatch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "645. Set Mismatch.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D02D62CE29058C4500BD4764 /* 20. Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "20. Valid Parentheses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		D02D62CF29058F6000BD4764 /* 232. Implement Queue using Stacks.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "232. Implement Queue using Stacks.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D039BB06278C5C24009142ED /* 2.Remove Duplicates from Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2.Remove Duplicates from Sorted Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D03A2A7A29028BBF00DA745F /* 141. Linked List Cycle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "141. Linked List Cycle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D03A2A7B2902967C00DA745F /* 203. Remove Linked List Elements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "203. Remove Linked List Elements.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -227,6 +228,7 @@
 				D03A2A7B2902967C00DA745F /* 203. Remove Linked List Elements.playground */,
 				D053EE502903B47F0042393F /* 83. Remove Duplicates from Sorted List.playground */,
 				D02D62CE29058C4500BD4764 /* 20. Valid Parentheses.playground */,
+				D02D62CF29058F6000BD4764 /* 232. Implement Queue using Stacks.playground */,
 			);
 			path = DataStructure;
 			sourceTree = "<group>";

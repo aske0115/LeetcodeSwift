@@ -520,6 +520,27 @@
 			<key>orderHint</key>
 			<integer>36</integer>
 		</dict>
+		<key>232. Implement Queue using Stacks (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>265</integer>
+		</dict>
+		<key>232. Implement Queue using Stacks (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>266</integer>
+		</dict>
+		<key>232. Implement Queue using Stacks (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>264</integer>
+		</dict>
 		<key>234_Palindrome_Linked_List (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
