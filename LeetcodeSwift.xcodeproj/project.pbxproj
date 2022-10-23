@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		D02D62CD29058BA000BD4764 /* 645. Set Mismatch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "645. Set Mismatch.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D039BB06278C5C24009142ED /* 2.Remove Duplicates from Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2.Remove Duplicates from Sorted Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D03A2A7A29028BBF00DA745F /* 141. Linked List Cycle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "141. Linked List Cycle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D03A2A7B2902967C00DA745F /* 203. Remove Linked List Elements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "203. Remove Linked List Elements.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -200,6 +201,7 @@
 				FC8D040728FE41750080FE04 /* 38. Count and Say.playground */,
 				FC7FE8AF2900E143005F761C /* 12. Integer to Roman.playground */,
 				D0B807AF29027978009D896C /* 219. Contains Duplicate II.playground */,
+				D02D62CD29058BA000BD4764 /* 645. Set Mismatch.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
