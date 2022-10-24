@@ -24,6 +24,7 @@
 		FC0813C528C9824500B368E0 /* 94. Binary Tree Inorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "94. Binary Tree Inorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC0CC7C628E3D13A00BBAA6A /* 98. Validate Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "98. Validate Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC0CC7C728E406BA00BBAA6A /* 235. Lowest Common Ancestor of a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "235. Lowest Common Ancestor of a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC0F7F3129065F5800A6439F /* 145. Binary Tree Postorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "145. Binary Tree Postorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC13B73128F68FF600F90F50 /* 976. Largest Perimeter Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "976. Largest Perimeter Triangle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC15224428E284FC0029000C /* 704. Binary Search.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "704. Binary Search.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC15224528E2A32B0029000C /* 278. First Bad Version.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "278. First Bad Version.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -231,6 +232,7 @@
 				D02D62CE29058C4500BD4764 /* 20. Valid Parentheses.playground */,
 				D02D62CF29058F6000BD4764 /* 232. Implement Queue using Stacks.playground */,
 				FCF8641F29065DEB001C84C7 /* 144. Binary Tree Preorder Traversal.playground */,
+				FC0F7F3129065F5800A6439F /* 145. Binary Tree Postorder Traversal.playground */,
 			);
 			path = DataStructure;
 			sourceTree = "<group>";
