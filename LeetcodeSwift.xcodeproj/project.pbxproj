@@ -92,6 +92,7 @@
 		FCE2BE9428B5AC550030FCDA /* 326_PowerOfThree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 326_PowerOfThree.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCE698BD28AE5CAC003379E8 /* 1338_Reduce_Array_Size_to_The_Half.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1338_Reduce_Array_Size_to_The_Half.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCF7842F28FCF88E00649680 /* 1832. Check if the Sentence Is Pangram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1832. Check if the Sentence Is Pangram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FCF8641F29065DEB001C84C7 /* 144. Binary Tree Preorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "144. Binary Tree Preorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCFA31A028EC008600BCCDC2 /* 844.BackSpace String Compare.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "844.BackSpace String Compare.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCFA31A128EC320300BCCDC2 /* 438. Find All Anagrams in a String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "438. Find All Anagrams in a String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCFDC70E28E6BF62004B0D21 /* 509.Fibonacci Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "509.Fibonacci Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -229,6 +230,7 @@
 				D053EE502903B47F0042393F /* 83. Remove Duplicates from Sorted List.playground */,
 				D02D62CE29058C4500BD4764 /* 20. Valid Parentheses.playground */,
 				D02D62CF29058F6000BD4764 /* 232. Implement Queue using Stacks.playground */,
+				FCF8641F29065DEB001C84C7 /* 144. Binary Tree Preorder Traversal.playground */,
 			);
 			path = DataStructure;
 			sourceTree = "<group>";
