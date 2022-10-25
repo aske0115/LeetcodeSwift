@@ -1,35 +1,35 @@
 /**
  102. Binary Tree Level Order Traversal
  Medium
-
+ 
  10920
-
+ 
  207
-
+ 
  Add to List
-
+ 
  Share
  Given the root of a binary tree, return the level order traversal of its nodes' values. (i.e., from left to right, level by level).
-
-  
-
+ 
+ 
+ 
  Example 1:
-
-
+ 
+ 
  Input: root = [3,9,20,null,null,15,7]
  Output: [[3],[9,20],[15,7]]
  Example 2:
-
+ 
  Input: root = [1]
  Output: [[1]]
  Example 3:
-
+ 
  Input: root = []
  Output: []
-  
-
+ 
+ 
  Constraints:
-
+ 
  The number of nodes in the tree is in the range [0, 2000].
  -1000 <= Node.val <= 1000
  Accepted
@@ -67,37 +67,33 @@ node.right?.right?.right = TreeNode(8)
 class Solution {
     func levelOrder(_ root: TreeNode?) -> [[Int]] {
         guard let root = root else { return [] }
-        var head: TreeNode? = root
-        var result: [[Int]] = []
-        var queue: [[TreeNode]] = []
-        queue.append([root])
-        result.append([root.val])
         
-        while queue.count != 0 {
-            var node = queue.removeFirst()
-            var values: [Int] = []
-            var temp: [TreeNode] = []
-            while node.count != 0 {
-                var value = node.removeFirst()
-                if let left = value.left {
-                    temp.append(left)
-                    values += [left.val]
+        var queue:[[TreeNode]] = []
+        var result: [[Int]] = []
+        
+        queue.append([root])
+        while !queue.isEmpty {
+            let nodes = queue.removeFirst()
+            var resultArray: [Int] = []
+            var nodeArray: [TreeNode] = []
+            for i in nodes {
+                resultArray.append(i.val)
+                
+                if let node = i.left {
+                    nodeArray.append(node)
                 }
                 
-                if let right = value.right {
-                    temp.append(right)
-                    values += [right.val]
+                if let node = i.right {
+                    nodeArray.append(node)
                 }
             }
-            if temp.count > 0 {
-                queue.append(temp)
-            }
             
-            if values.count > 0 {
-                result.append(values)
+            if !nodeArray.isEmpty{
+                queue.append(nodeArray)
             }
-
+            result.append(resultArray)
         }
+        
         return result
     }
 }

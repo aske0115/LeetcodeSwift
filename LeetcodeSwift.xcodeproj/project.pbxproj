@@ -49,6 +49,7 @@
 		FC4A1B4428EA892D00510352 /* 746. Min Cost Climbing Stairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "746. Min Cost Climbing Stairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC5152C228B2053E00951CBF /* 2_Add Two Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2_Add Two Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC55FE1628A62C98006FECED /* TopKFrequentElements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TopKFrequentElements.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC56DC8529076D790057C9A4 /* 1662. Check If Two String Arrays are Equivalent.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1662. Check If Two String Arrays are Equivalent.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC5B31FF28FF934D00B8459E /* 74. Search a 2D Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "74. Search a 2D Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC636A5628F541AE00491B40 /* 334. Increasing Triplet Subsequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "334. Increasing Triplet Subsequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC6D53E628ED51160090795F /* 1046. Last Stone Weight.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1046. Last Stone Weight.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -206,6 +207,7 @@
 				FC7FE8AF2900E143005F761C /* 12. Integer to Roman.playground */,
 				D0B807AF29027978009D896C /* 219. Contains Duplicate II.playground */,
 				D02D62CD29058BA000BD4764 /* 645. Set Mismatch.playground */,
+				FC56DC8529076D790057C9A4 /* 1662. Check If Two String Arrays are Equivalent.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
