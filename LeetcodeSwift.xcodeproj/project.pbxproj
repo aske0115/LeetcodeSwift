@@ -92,6 +92,7 @@
 		FCC7B34228DBEA1800D52249 /* 557. Reverse Words in a String III.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "557. Reverse Words in a String III.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCC7B34328DBEE2D00D52249 /* 205. Isomorphic Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "205. Isomorphic Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCCD8FCC28BC88F6002B9188 /* SingleNumber.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SingleNumber.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FCD8F4DB290A12B500499084 /* 700. Search in a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "700. Search in a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCDBC03D28CB774F00493DB2 /* 1996. The Number of Weak Characters in the Game.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1996. The Number of Weak Characters in the Game.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCE2BE9428B5AC550030FCDA /* 326_PowerOfThree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 326_PowerOfThree.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCE698BD28AE5CAC003379E8 /* 1338_Reduce_Array_Size_to_The_Half.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1338_Reduce_Array_Size_to_The_Half.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -239,6 +240,7 @@
 				FC0F7F3129065F5800A6439F /* 145. Binary Tree Postorder Traversal.playground */,
 				FC56DC862907794C0057C9A4 /* 104. Maximum Depth of Binary Tree.playground */,
 				FC0E21FF2908C48D004603FB /* 226. Invert Binary Tree.playground */,
+				FCD8F4DB290A12B500499084 /* 700. Search in a Binary Search Tree.playground */,
 			);
 			path = DataStructure;
 			sourceTree = "<group>";
