@@ -97,6 +97,7 @@
 		FCDBC03D28CB774F00493DB2 /* 1996. The Number of Weak Characters in the Game.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1996. The Number of Weak Characters in the Game.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCE2BE9428B5AC550030FCDA /* 326_PowerOfThree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 326_PowerOfThree.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCE698BD28AE5CAC003379E8 /* 1338_Reduce_Array_Size_to_The_Half.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1338_Reduce_Array_Size_to_The_Half.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FCE7BBAE290B754E00180F34 /* 653. Two Sum IV - Input is a BST.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "653. Two Sum IV - Input is a BST.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCF7842F28FCF88E00649680 /* 1832. Check if the Sentence Is Pangram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1832. Check if the Sentence Is Pangram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCF8641F29065DEB001C84C7 /* 144. Binary Tree Preorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "144. Binary Tree Preorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCFA31A028EC008600BCCDC2 /* 844.BackSpace String Compare.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "844.BackSpace String Compare.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -243,6 +244,7 @@
 				FC0E21FF2908C48D004603FB /* 226. Invert Binary Tree.playground */,
 				FCD8F4DB290A12B500499084 /* 700. Search in a Binary Search Tree.playground */,
 				FCD8F4DC290A131100499084 /* 701. Insert into a Binary Search Tree.playground */,
+				FCE7BBAE290B754E00180F34 /* 653. Two Sum IV - Input is a BST.playground */,
 			);
 			path = DataStructure;
 			sourceTree = "<group>";
