@@ -100,6 +100,7 @@
 		FCE2BE9428B5AC550030FCDA /* 326_PowerOfThree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 326_PowerOfThree.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCE698BD28AE5CAC003379E8 /* 1338_Reduce_Array_Size_to_The_Half.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1338_Reduce_Array_Size_to_The_Half.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCE7BBAE290B754E00180F34 /* 653. Two Sum IV - Input is a BST.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "653. Two Sum IV - Input is a BST.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FCE95D2729139E5500629F4D /* 204. Count Primes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "204. Count Primes.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCF7842F28FCF88E00649680 /* 1832. Check if the Sentence Is Pangram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1832. Check if the Sentence Is Pangram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCF8641F29065DEB001C84C7 /* 144. Binary Tree Preorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "144. Binary Tree Preorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCFA31A028EC008600BCCDC2 /* 844.BackSpace String Compare.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "844.BackSpace String Compare.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -138,6 +139,7 @@
 				FCB69DE228D88D4A00B63B09 /* 19. Remove Nth Node From End of List.playground */,
 				FC1DE9FB28F8F74900EB6236 /* 2095. Delete the Middle Node of a Linked List.playground */,
 				FC4A4AFE290F5E0B00750F34 /* 234. Palindrom Linked List.playground */,
+				FCE95D2729139E5500629F4D /* 204. Count Primes.playground */,
 			);
 			path = TopInterviewQuestions;
 			sourceTree = "<group>";
