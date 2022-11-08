@@ -94,6 +94,7 @@
 		FCC1628B28AB9D7900773A2C /* 387_FirstUniqueCharacterInString.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 387_FirstUniqueCharacterInString.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCC7B34228DBEA1800D52249 /* 557. Reverse Words in a String III.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "557. Reverse Words in a String III.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCC7B34328DBEE2D00D52249 /* 205. Isomorphic Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "205. Isomorphic Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FCCAF272291A29F400F6524E /* 1544. Make The String Great.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1544. Make The String Great.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCCD8FCC28BC88F6002B9188 /* SingleNumber.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SingleNumber.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCD8F4DB290A12B500499084 /* 700. Search in a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "700. Search in a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCD8F4DC290A131100499084 /* 701. Insert into a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "701. Insert into a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -225,6 +226,7 @@
 				FC6137E6291105E60031A8EB /* 766. Toeplitz Matrix.playground */,
 				FCDE900A2914C5E900460C25 /* 345. Reverse Vowels of a String.playground */,
 				FCC08E2829189DCB00E2650F /* 1323. Maximum 69 Number.playground */,
+				FCCAF272291A29F400F6524E /* 1544. Make The String Great.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
