@@ -26,6 +26,7 @@
 		FC0CC7C728E406BA00BBAA6A /* 235. Lowest Common Ancestor of a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "235. Lowest Common Ancestor of a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC0E21FF2908C48D004603FB /* 226. Invert Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "226. Invert Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC0F7F3129065F5800A6439F /* 145. Binary Tree Postorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "145. Binary Tree Postorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC110A0D291B71B60008891A /* 901. Online Stock Span.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "901. Online Stock Span.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC13B73128F68FF600F90F50 /* 976. Largest Perimeter Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "976. Largest Perimeter Triangle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC15224428E284FC0029000C /* 704. Binary Search.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "704. Binary Search.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC15224528E2A32B0029000C /* 278. First Bad Version.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "278. First Bad Version.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -227,6 +228,7 @@
 				FCDE900A2914C5E900460C25 /* 345. Reverse Vowels of a String.playground */,
 				FCC08E2829189DCB00E2650F /* 1323. Maximum 69 Number.playground */,
 				FCCAF272291A29F400F6524E /* 1544. Make The String Great.playground */,
+				FC110A0D291B71B60008891A /* 901. Online Stock Span.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
