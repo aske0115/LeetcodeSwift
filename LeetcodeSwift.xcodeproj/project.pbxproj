@@ -67,6 +67,7 @@
 		FC7AB85B28A3DFD4008EB9AF /* 108.Convert Sorted Array to Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "108.Convert Sorted Array to Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC7AB85D28A3E879008EB9AF /* ValidPalindrome.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ValidPalindrome.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC7FE8AF2900E143005F761C /* 12. Integer to Roman.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "12. Integer to Roman.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC8A0068291C90CA00213D39 /* 1047. Remove All Adjacent Duplicates In String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1047. Remove All Adjacent Duplicates In String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC8D040728FE41750080FE04 /* 38. Count and Say.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "38. Count and Say.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC8D040828FE69630080FE04 /* 566. Reshape the Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "566. Reshape the Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC8D040928FE726C0080FE04 /* 118. Pascal's Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "118. Pascal's Triangle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -229,6 +230,7 @@
 				FCC08E2829189DCB00E2650F /* 1323. Maximum 69 Number.playground */,
 				FCCAF272291A29F400F6524E /* 1544. Make The String Great.playground */,
 				FC110A0D291B71B60008891A /* 901. Online Stock Span.playground */,
+				FC8A0068291C90CA00213D39 /* 1047. Remove All Adjacent Duplicates In String.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
