@@ -51,6 +51,7 @@
 		FC49BEAC28DC38260022DC3F /* 392.Is Subsequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "392.Is Subsequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC4A1B4428EA892D00510352 /* 746. Min Cost Climbing Stairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "746. Min Cost Climbing Stairs.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC4A4AFE290F5E0B00750F34 /* 234. Palindrom Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "234. Palindrom Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC4F568D2921240F0075E946 /* 151. Reverse Words in a String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "151. Reverse Words in a String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC5152C228B2053E00951CBF /* 2_Add Two Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2_Add Two Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC55FE1628A62C98006FECED /* TopKFrequentElements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = TopKFrequentElements.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC56DC8529076D790057C9A4 /* 1662. Check If Two String Arrays are Equivalent.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1662. Check If Two String Arrays are Equivalent.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -233,6 +234,7 @@
 				FC110A0D291B71B60008891A /* 901. Online Stock Span.playground */,
 				FC8A0068291C90CA00213D39 /* 1047. Remove All Adjacent Duplicates In String.playground */,
 				FC04407E291DE8BD00206D65 /* 26. Remove Duplicates from Sorted Array.playground */,
+				FC4F568D2921240F0075E946 /* 151. Reverse Words in a String.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
