@@ -90,6 +90,7 @@
 		FCAE6F87288D1F9D0032CB1F /* RomanInteger.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RomanInteger.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCB69DE128D88CEC00B63B09 /* 237.DeleteNodeInALinkedList.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 237.DeleteNodeInALinkedList.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCB69DE228D88D4A00B63B09 /* 19. Remove Nth Node From End of List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "19. Remove Nth Node From End of List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FCB82AAA292484CD006729FF /* 374. Guess Number Higher or Lower.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "374. Guess Number Higher or Lower.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCB9F29628BC923C00E69C70 /* IntersectinoOfTwoArrays2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = IntersectinoOfTwoArrays2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCB9F29728BC958300E69C70 /* Rotate Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Rotate Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCB9F29828BCC45500E69C70 /* ReverseInteger.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ReverseInteger.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -237,6 +238,7 @@
 				FC04407E291DE8BD00206D65 /* 26. Remove Duplicates from Sorted Array.playground */,
 				FC4F568D2921240F0075E946 /* 151. Reverse Words in a String.playground */,
 				FC88D61029234E53000AC4F9 /* 222. Count Complete Tree Nodes.playground */,
+				FCB82AAA292484CD006729FF /* 374. Guess Number Higher or Lower.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
