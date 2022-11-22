@@ -64,6 +64,7 @@
 		FC6D53E828ED832B0090795F /* 394. Decode String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "394. Decode String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC79320828E0926200073485 /* 121. Best Time to Buy and Sell Stock.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "121. Best Time to Buy and Sell Stock.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC79320928E092B100073485 /* 409. Longest Palindrome.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "409. Longest Palindrome.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC7A8A2E292CB2DD002A94F5 /* 1614. Maximum Nesting Depth of the Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1614. Maximum Nesting Depth of the Parentheses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC7AB85828A3D547008EB9AF /* ValidAnagram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ValidAnagram.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC7AB85928A3D6DF008EB9AF /* GroupAnagrams.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = GroupAnagrams.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC7AB85B28A3DFD4008EB9AF /* 108.Convert Sorted Array to Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "108.Convert Sorted Array to Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -151,6 +152,7 @@
 				FC4A4AFE290F5E0B00750F34 /* 234. Palindrom Linked List.playground */,
 				FCE95D2729139E5500629F4D /* 204. Count Primes.playground */,
 				FCDE900B291500CF00460C25 /* 9. Palindrome Number.playground */,
+				FC7A8A2E292CB2DD002A94F5 /* 1614. Maximum Nesting Depth of the Parentheses.playground */,
 			);
 			path = TopInterviewQuestions;
 			sourceTree = "<group>";
