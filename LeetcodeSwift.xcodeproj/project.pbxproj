@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		681115992942222100F5D9DF /* 872. Leaf-Similar Trees.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "872. Leaf-Similar Trees.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		687A3C68294B683C00E5C985 /* 1143. Longest Common Subsequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1143. Longest Common Subsequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		68C268732940E0CC00201CE9 /* 938. Range Sum of BST.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "938. Range Sum of BST.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D02D62CD29058BA000BD4764 /* 645. Set Mismatch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "645. Set Mismatch.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		D02D62CE29058C4500BD4764 /* 20. Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "20. Valid Parentheses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -245,6 +246,7 @@
 				FCB82AAA292484CD006729FF /* 374. Guess Number Higher or Lower.playground */,
 				68C268732940E0CC00201CE9 /* 938. Range Sum of BST.playground */,
 				681115992942222100F5D9DF /* 872. Leaf-Similar Trees.playground */,
+				687A3C68294B683C00E5C985 /* 1143. Longest Common Subsequence.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
