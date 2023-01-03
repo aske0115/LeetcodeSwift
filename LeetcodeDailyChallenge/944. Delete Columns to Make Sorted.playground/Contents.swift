@@ -53,26 +53,48 @@
  strs[i] consists of lowercase English letters.
  */
 
+//내가 풀었으나 timeOut
+//class Solution {
+//    func minDeletionSize(_ strs: [String]) -> Int {
+//
+//        var index = 0
+//        let length = strs.first!.count
+//        var deletedCount = 0
+//
+//        while index < length {
+//            var column: [Character] = []
+//            for c in strs {
+//                let i = c.index(c.startIndex, offsetBy: index)
+//                if let last = column.last, last > c[i] {
+//                    deletedCount += 1
+//                    break
+//                } else {
+//                    column.append(c[i])
+//                }
+//            }
+//            index += 1
+//        }
+//        return deletedCount
+//    }
+//}
 
+
+//해법보고 수정한 버전..결국 for문을 1부터도느냐 0부터 다시도느냐에 따라 실패/성공나뉨.. 로직은 비슷..
 class Solution {
     func minDeletionSize(_ strs: [String]) -> Int {
         
-        var index = 0
         let length = strs.first!.count
         var deletedCount = 0
         
-        while index < length {
-            var column: [Character] = []
-            for c in strs {
-                let i = c.index(c.startIndex, offsetBy: index)
-                if let last = column.last, last > c[i] {
+        for k in 0..<length {
+            let first = strs.first!
+            let i = first.index(first.startIndex, offsetBy: k)
+            for j in 1..<strs.count {
+                if strs[j][i] < strs[j - 1][i] {
                     deletedCount += 1
                     break
-                } else {
-                    column.append(c[i])
                 }
             }
-            index += 1
         }
         return deletedCount
     }
