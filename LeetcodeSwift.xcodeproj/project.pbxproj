@@ -117,6 +117,7 @@
 		FCE7BBAE290B754E00180F34 /* 653. Two Sum IV - Input is a BST.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "653. Two Sum IV - Input is a BST.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCE95D2729139E5500629F4D /* 204. Count Primes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "204. Count Primes.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCE9E1CF2963A6890007F079 /* 520. Detect Capital.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "520. Detect Capital.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FCE9E1D029641DCE0007F079 /* 944. Delete Columns to Make Sorted.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "944. Delete Columns to Make Sorted.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCF7842F28FCF88E00649680 /* 1832. Check if the Sentence Is Pangram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1832. Check if the Sentence Is Pangram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCF8641F29065DEB001C84C7 /* 144. Binary Tree Preorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "144. Binary Tree Preorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCFA31A028EC008600BCCDC2 /* 844.BackSpace String Compare.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "844.BackSpace String Compare.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -251,6 +252,7 @@
 				687A3C68294B683C00E5C985 /* 1143. Longest Common Subsequence.playground */,
 				682BE210294F59C6007B80D0 /* 739. Daily Temperatures.playground */,
 				FCE9E1CF2963A6890007F079 /* 520. Detect Capital.playground */,
+				FCE9E1D029641DCE0007F079 /* 944. Delete Columns to Make Sorted.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
