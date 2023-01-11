@@ -106,6 +106,7 @@
 		FCC1628B28AB9D7900773A2C /* 387_FirstUniqueCharacterInString.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 387_FirstUniqueCharacterInString.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCC7B34228DBEA1800D52249 /* 557. Reverse Words in a String III.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "557. Reverse Words in a String III.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCC7B34328DBEE2D00D52249 /* 205. Isomorphic Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "205. Isomorphic Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FCCA9EFF296EAFFF005D8288 /* 561. Array Partition.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "561. Array Partition.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCCAF272291A29F400F6524E /* 1544. Make The String Great.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1544. Make The String Great.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCCD8FCC28BC88F6002B9188 /* SingleNumber.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SingleNumber.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCD8F4DB290A12B500499084 /* 700. Search in a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "700. Search in a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -255,6 +256,7 @@
 				FCE9E1CF2963A6890007F079 /* 520. Detect Capital.playground */,
 				FCE9E1D029641DCE0007F079 /* 944. Delete Columns to Make Sorted.playground */,
 				FC28B0D8296800460023F457 /* 1833. Maximum Ice Cream Bars.playground */,
+				FCCA9EFF296EAFFF005D8288 /* 561. Array Partition.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
