@@ -27,6 +27,7 @@
 		FC04407E291DE8BD00206D65 /* 26. Remove Duplicates from Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "26. Remove Duplicates from Sorted Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC05FECE28C4D96800FF8126 /* 28. Find the Index of the First Occurrence in a String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "28. Find the Index of the First Occurrence in a String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC0813C528C9824500B368E0 /* 94. Binary Tree Inorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "94. Binary Tree Inorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC081DA32987F922008BE61D /* 1137. N-th Tribonacci Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1137. N-th Tribonacci Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC0CC7C628E3D13A00BBAA6A /* 98. Validate Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "98. Validate Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC0CC7C728E406BA00BBAA6A /* 235. Lowest Common Ancestor of a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "235. Lowest Common Ancestor of a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC0E21FF2908C48D004603FB /* 226. Invert Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "226. Invert Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -257,6 +258,7 @@
 				FCE9E1D029641DCE0007F079 /* 944. Delete Columns to Make Sorted.playground */,
 				FC28B0D8296800460023F457 /* 1833. Maximum Ice Cream Bars.playground */,
 				FCCA9EFF296EAFFF005D8288 /* 561. Array Partition.playground */,
+				FC081DA32987F922008BE61D /* 1137. N-th Tribonacci Number.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
