@@ -28,6 +28,7 @@
 		FC05FECE28C4D96800FF8126 /* 28. Find the Index of the First Occurrence in a String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "28. Find the Index of the First Occurrence in a String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC0813C528C9824500B368E0 /* 94. Binary Tree Inorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "94. Binary Tree Inorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC081DA32987F922008BE61D /* 1137. N-th Tribonacci Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1137. N-th Tribonacci Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC0AAD8E29907D1300D521F1 /* 1470. Shuffle the Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1470. Shuffle the Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC0CC7C628E3D13A00BBAA6A /* 98. Validate Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "98. Validate Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC0CC7C728E406BA00BBAA6A /* 235. Lowest Common Ancestor of a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "235. Lowest Common Ancestor of a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC0E21FF2908C48D004603FB /* 226. Invert Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "226. Invert Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -122,6 +123,7 @@
 		FCE95D2729139E5500629F4D /* 204. Count Primes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "204. Count Primes.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCE9E1CF2963A6890007F079 /* 520. Detect Capital.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "520. Detect Capital.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCE9E1D029641DCE0007F079 /* 944. Delete Columns to Make Sorted.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "944. Delete Columns to Make Sorted.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FCF5266E29952A9E007258A1 /* 455. Assign Cookies.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "455. Assign Cookies.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCF7842F28FCF88E00649680 /* 1832. Check if the Sentence Is Pangram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1832. Check if the Sentence Is Pangram.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCF8641F29065DEB001C84C7 /* 144. Binary Tree Preorder Traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "144. Binary Tree Preorder Traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FCFA31A028EC008600BCCDC2 /* 844.BackSpace String Compare.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "844.BackSpace String Compare.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -134,6 +136,7 @@
 		D08A9B542785B85D00B75A0A = {
 			isa = PBXGroup;
 			children = (
+				FCF5266C29952A8C007258A1 /* Category */,
 				FC93760428FAF20200EE3CF1 /* DataStructure */,
 				FCA5852528DAFE55006B1105 /* leetcode75 */,
 				FC7AB85A28A3DFBB008EB9AF /* LeetcodeDailyChallenge */,
@@ -261,6 +264,7 @@
 				FCCA9EFF296EAFFF005D8288 /* 561. Array Partition.playground */,
 				FC081DA32987F922008BE61D /* 1137. N-th Tribonacci Number.playground */,
 				FC100E52298A44100008F902 /* 1071. Greatest Common Divisor of Strings.playground */,
+				FC0AAD8E29907D1300D521F1 /* 1470. Shuffle the Array.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
@@ -360,6 +364,22 @@
 				FCE698BD28AE5CAC003379E8 /* 1338_Reduce_Array_Size_to_The_Half.playground */,
 			);
 			path = "1338_Reduce Array Size To The Half";
+			sourceTree = "<group>";
+		};
+		FCF5266C29952A8C007258A1 /* Category */ = {
+			isa = PBXGroup;
+			children = (
+				FCF5266D29952A95007258A1 /* Greedy */,
+			);
+			path = Category;
+			sourceTree = "<group>";
+		};
+		FCF5266D29952A95007258A1 /* Greedy */ = {
+			isa = PBXGroup;
+			children = (
+				FCF5266E29952A9E007258A1 /* 455. Assign Cookies.playground */,
+			);
+			path = Greedy;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
