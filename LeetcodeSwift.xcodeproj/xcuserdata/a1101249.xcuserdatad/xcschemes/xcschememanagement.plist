@@ -2391,6 +2391,27 @@
 			<key>orderHint</key>
 			<integer>63</integer>
 		</dict>
+		<key>942. DI String Match (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>130</integer>
+		</dict>
+		<key>942. DI String Match (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>131</integer>
+		</dict>
+		<key>942. DI String Match (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>129</integer>
+		</dict>
 		<key>944. Delete Columns to Make Sorted (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
