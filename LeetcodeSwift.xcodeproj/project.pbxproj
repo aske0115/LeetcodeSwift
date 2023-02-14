@@ -81,6 +81,7 @@
 		FC7AB85D28A3E879008EB9AF /* ValidPalindrome.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ValidPalindrome.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC7B1250299A2F62000B2F3D /* 1523. Count Odd Numbers in an Interval Range.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1523. Count Odd Numbers in an Interval Range.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC7B1251299A36C1000B2F3D /* 942. DI String Match.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "942. DI String Match.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC7F5EDA299B42A1005DAC61 /* 67. Add Binary.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "67. Add Binary.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC7FE8AF2900E143005F761C /* 12. Integer to Roman.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "12. Integer to Roman.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC88D61029234E53000AC4F9 /* 222. Count Complete Tree Nodes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "222. Count Complete Tree Nodes.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC8A0068291C90CA00213D39 /* 1047. Remove All Adjacent Duplicates In String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1047. Remove All Adjacent Duplicates In String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -271,6 +272,7 @@
 				FC100E52298A44100008F902 /* 1071. Greatest Common Divisor of Strings.playground */,
 				FC0AAD8E29907D1300D521F1 /* 1470. Shuffle the Array.playground */,
 				FC7B1250299A2F62000B2F3D /* 1523. Count Odd Numbers in an Interval Range.playground */,
+				FC7F5EDA299B42A1005DAC61 /* 67. Add Binary.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
