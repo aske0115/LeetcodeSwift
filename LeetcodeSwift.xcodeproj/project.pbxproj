@@ -42,6 +42,7 @@
 		FC17E10428DD77D5007E0C4F /* 206. Reverse Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "206. Reverse Linked List.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC17E10528DDB3BB007E0C4F /* 1680. Concatenation of Consecutive Binary Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1680. Concatenation of Consecutive Binary Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC19588C28D5A42000F346EC /* 326. Power of Three.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "326. Power of Three.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC1B0EB7299C771900165904 /* 989. Add to Array-Form of Integer.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "989. Add to Array-Form of Integer.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC1D868228C6C238008674D5 /* 429_n-ary_Tree_Level_Order_traversal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "429_n-ary_Tree_Level_Order_traversal.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC1D868328C6D82D008674D5 /* 814. Binary Tree Pruning.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "814. Binary Tree Pruning.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC1D868428C71B1D008674D5 /* 14_Lognest Common Prefix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "14_Lognest Common Prefix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -273,6 +274,7 @@
 				FC0AAD8E29907D1300D521F1 /* 1470. Shuffle the Array.playground */,
 				FC7B1250299A2F62000B2F3D /* 1523. Count Odd Numbers in an Interval Range.playground */,
 				FC7F5EDA299B42A1005DAC61 /* 67. Add Binary.playground */,
+				FC1B0EB7299C771900165904 /* 989. Add to Array-Form of Integer.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";

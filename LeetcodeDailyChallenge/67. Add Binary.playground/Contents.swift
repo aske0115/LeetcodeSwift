@@ -44,7 +44,7 @@ class Solution {
         var upper = false
         while aIndex >= 0  && bIndex >= 0 {
             
-            if let number = aArray[aIndex].wholeNumberValue, let number2 = bArray[bIndex].wholeNumberValue, number == 1 && number2 == 1 {
+            if aArray[aIndex] == "1" && bArray[bIndex] == "1" {
                 result.insert(upper ? "1" : "0", at: result.startIndex)
                 upper = true
             } else if aArray[aIndex] == "0" && bArray[bIndex] == "0" {
