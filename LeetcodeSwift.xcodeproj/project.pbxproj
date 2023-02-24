@@ -82,6 +82,7 @@
 		FC7AB85D28A3E879008EB9AF /* ValidPalindrome.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ValidPalindrome.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC7B1250299A2F62000B2F3D /* 1523. Count Odd Numbers in an Interval Range.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1523. Count Odd Numbers in an Interval Range.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC7B1251299A36C1000B2F3D /* 942. DI String Match.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "942. DI String Match.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC7CAB0929A86977007158B3 /* 2160. Minimum Sum of Four Digit Number After Splitting Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2160. Minimum Sum of Four Digit Number After Splitting Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC7F5EDA299B42A1005DAC61 /* 67. Add Binary.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "67. Add Binary.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC7FE8AF2900E143005F761C /* 12. Integer to Roman.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "12. Integer to Roman.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC88D61029234E53000AC4F9 /* 222. Count Complete Tree Nodes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "222. Count Complete Tree Nodes.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -392,6 +393,7 @@
 				FC290727299779ED003855B4 /* 680. Valid Palindrome II.playground */,
 				FC3E878729991C98003C2E2B /* 860. Lemonade Change.playground */,
 				FC7B1251299A36C1000B2F3D /* 942. DI String Match.playground */,
+				FC7CAB0929A86977007158B3 /* 2160. Minimum Sum of Four Digit Number After Splitting Digits.playground */,
 			);
 			path = Greedy;
 			sourceTree = "<group>";
