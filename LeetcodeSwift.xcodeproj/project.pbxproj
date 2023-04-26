@@ -69,6 +69,7 @@
 		FC56DC8529076D790057C9A4 /* 1662. Check If Two String Arrays are Equivalent.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1662. Check If Two String Arrays are Equivalent.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC56DC862907794C0057C9A4 /* 104. Maximum Depth of Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "104. Maximum Depth of Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC5B31FF28FF934D00B8459E /* 74. Search a 2D Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "74. Search a 2D Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FC5D95E429F9086700F95BD1 /* 258. Add Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "258. Add Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC6137E6291105E60031A8EB /* 766. Toeplitz Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "766. Toeplitz Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC636A5628F541AE00491B40 /* 334. Increasing Triplet Subsequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "334. Increasing Triplet Subsequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC6D53E628ED51160090795F /* 1046. Last Stone Weight.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1046. Last Stone Weight.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -278,6 +279,7 @@
 				FC7F5EDA299B42A1005DAC61 /* 67. Add Binary.playground */,
 				FC1B0EB7299C771900165904 /* 989. Add to Array-Form of Integer.playground */,
 				68E6B40D29C1F99B00275222 /* 958. Check Completeness of a Binary Tree.playground */,
+				FC5D95E429F9086700F95BD1 /* 258. Add Digits.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
