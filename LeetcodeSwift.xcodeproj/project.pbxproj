@@ -12,6 +12,7 @@
 		682B83BB29F8167600DF008D /* 2336. Smallest Number in Infinite Set.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "2336. Smallest Number in Infinite Set.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		682BE210294F59C6007B80D0 /* 739. Daily Temperatures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "739. Daily Temperatures.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		687A3C68294B683C00E5C985 /* 1143. Longest Common Subsequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1143. Longest Common Subsequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		68BD71822AD43B7700B0562E /* 34. Find First and Last Position of Element in Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "34. Find First and Last Position of Element in Sorted Array.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		68C268732940E0CC00201CE9 /* 938. Range Sum of BST.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "938. Range Sum of BST.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		68DF15012AC4601300CB0757 /* 880. Decoded String at Index .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "880. Decoded String at Index .playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		68E6B40D29C1F99B00275222 /* 958. Check Completeness of a Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "958. Check Completeness of a Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -72,7 +73,6 @@
 		FC56DC8529076D790057C9A4 /* 1662. Check If Two String Arrays are Equivalent.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1662. Check If Two String Arrays are Equivalent.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC56DC862907794C0057C9A4 /* 104. Maximum Depth of Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "104. Maximum Depth of Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC5B31FF28FF934D00B8459E /* 74. Search a 2D Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "74. Search a 2D Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		FC5D95E429F9086700F95BD1 /* 258. Add Digits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "258. Add Digits.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC6137E6291105E60031A8EB /* 766. Toeplitz Matrix.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "766. Toeplitz Matrix.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC636A5628F541AE00491B40 /* 334. Increasing Triplet Subsequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "334. Increasing Triplet Subsequence.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FC6D53E628ED51160090795F /* 1046. Last Stone Weight.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "1046. Last Stone Weight.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -285,6 +285,7 @@
 				682B83BB29F8167600DF008D /* 2336. Smallest Number in Infinite Set.playground */,
 				68DF15012AC4601300CB0757 /* 880. Decoded String at Index .playground */,
 				681DE78F2ACF02FD0062E4A1 /* 229. Majority Element II .playground */,
+				68BD71822AD43B7700B0562E /* 34. Find First and Last Position of Element in Sorted Array.playground */,
 			);
 			path = LeetcodeDailyChallenge;
 			sourceTree = "<group>";
